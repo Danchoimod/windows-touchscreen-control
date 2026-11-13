@@ -1,0 +1,1781 @@
+2026-11-14 00:45:57,471 touchplay.input shield shown: hwnd=264292 rect=(0, 0, 1920, 1080)
+2026-11-14 00:46:03,905 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=1037,57 over_shield=True
+2026-11-14 00:46:03,907 touchplay.input shield message: hwnd=264292 msg=0x201 wparam=0x1
+2026-11-14 00:46:03,908 touchplay.input overlay down: id=mouse xy=829.6,45.6
+2026-11-14 00:46:03,961 touchplay.input shield message: hwnd=264292 msg=0x202 wparam=0x0
+2026-11-14 00:46:06,852 touchplay.input shield shown: hwnd=329828 rect=(0, 0, 1920, 1080)
+2026-11-14 00:46:06,905 touchplay.input shield message: hwnd=329828 msg=0x202 wparam=0x0
+2026-11-14 00:46:08,062 touchplay.input Qt native: type=b'windows_generic_MSG' target=329828 msg=0x246 shield=329828
+2026-11-14 00:46:08,071 touchplay.input shield message: hwnd=329828 msg=0x246 wparam=0x60170a2d
+2026-11-14 00:46:08,072 touchplay.input overlay down: id=2605 xy=734.4,48.8
+2026-11-14 00:46:08,112 touchplay.input Qt native: type=b'windows_generic_MSG' target=329828 msg=0x247 shield=329828
+2026-11-14 00:46:08,113 touchplay.input shield message: hwnd=329828 msg=0x247 wparam=0x60000a2d
+2026-11-14 00:46:08,890 touchplay.input Qt native: type=b'windows_generic_MSG' target=329828 msg=0x246 shield=329828
+2026-11-14 00:46:08,890 touchplay.input shield message: hwnd=329828 msg=0x246 wparam=0x60170a2e
+2026-11-14 00:46:08,890 touchplay.input overlay down: id=2606 xy=1104.8,444.8
+2026-11-14 00:46:09,538 touchplay.input Qt native: type=b'windows_generic_MSG' target=329828 msg=0x247 shield=329828
+2026-11-14 00:46:09,538 touchplay.input shield message: hwnd=329828 msg=0x247 wparam=0x60000a2e
+2026-11-14 00:46:10,405 touchplay.input Qt native: type=b'windows_generic_MSG' target=329828 msg=0x246 shield=329828
+2026-11-14 00:46:10,405 touchplay.input shield message: hwnd=329828 msg=0x246 wparam=0x60170a2f
+2026-11-14 00:46:10,405 touchplay.input overlay down: id=2607 xy=992.8,66.4
+2026-11-14 00:46:10,464 touchplay.input Qt native: type=b'windows_generic_MSG' target=329828 msg=0x247 shield=329828
+2026-11-14 00:46:10,464 touchplay.input shield message: hwnd=329828 msg=0x247 wparam=0x60000a2f
+2026-11-14 00:46:10,880 touchplay.input Qt native: type=b'windows_generic_MSG' target=329828 msg=0x246 shield=329828
+2026-11-14 00:46:10,880 touchplay.input shield message: hwnd=329828 msg=0x246 wparam=0x60170a30
+2026-11-14 00:46:10,880 touchplay.input overlay down: id=2608 xy=480.0,146.4
+2026-11-14 00:46:10,951 touchplay.input Qt native: type=b'windows_generic_MSG' target=329828 msg=0x247 shield=329828
+2026-11-14 00:46:10,951 touchplay.input shield message: hwnd=329828 msg=0x247 wparam=0x60000a30
+2026-11-14 00:46:11,439 touchplay.input Qt native: type=b'windows_generic_MSG' target=329828 msg=0x246 shield=329828
+2026-11-14 00:46:11,439 touchplay.input shield message: hwnd=329828 msg=0x246 wparam=0x60170a31
+2026-11-14 00:46:11,439 touchplay.input overlay down: id=2609 xy=1010.4,568.8
+2026-11-14 00:46:11,796 touchplay.input Qt native: type=b'windows_generic_MSG' target=329828 msg=0x247 shield=329828
+2026-11-14 00:46:11,796 touchplay.input shield message: hwnd=329828 msg=0x247 wparam=0x60000a31
+2026-11-14 00:46:12,186 touchplay.input Qt native: type=b'windows_generic_MSG' target=329828 msg=0x246 shield=329828
+2026-11-14 00:46:12,186 touchplay.input shield message: hwnd=329828 msg=0x246 wparam=0x60170a32
+2026-11-14 00:46:12,187 touchplay.input overlay down: id=2610 xy=941.6,375.2
+2026-11-14 00:46:12,827 touchplay.input Qt native: type=b'windows_generic_MSG' target=329828 msg=0x247 shield=329828
+2026-11-14 00:46:12,827 touchplay.input shield message: hwnd=329828 msg=0x247 wparam=0x60000a32
+2026-11-14 00:46:13,354 touchplay.input Qt native: type=b'windows_generic_MSG' target=329828 msg=0x246 shield=329828
+2026-11-14 00:46:13,354 touchplay.input shield message: hwnd=329828 msg=0x246 wparam=0x60170a33
+2026-11-14 00:46:13,354 touchplay.input overlay down: id=2611 xy=1073.6,524.8
+2026-11-14 00:46:15,266 touchplay.input Qt native: type=b'windows_generic_MSG' target=329828 msg=0x247 shield=329828
+2026-11-14 00:46:15,266 touchplay.input shield message: hwnd=329828 msg=0x247 wparam=0x60000a33
+2026-11-14 00:46:15,354 touchplay.input Qt native: type=b'windows_generic_MSG' target=329828 msg=0x246 shield=329828
+2026-11-14 00:46:15,355 touchplay.input shield message: hwnd=329828 msg=0x246 wparam=0x60170a34
+2026-11-14 00:46:15,355 touchplay.input overlay down: id=2612 xy=1163.2,565.6
+2026-11-14 00:46:15,436 touchplay.input Qt native: type=b'windows_generic_MSG' target=329828 msg=0x247 shield=329828
+2026-11-14 00:46:15,436 touchplay.input shield message: hwnd=329828 msg=0x247 wparam=0x60000a34
+2026-11-14 00:46:15,504 touchplay.input Qt native: type=b'windows_generic_MSG' target=329828 msg=0x246 shield=329828
+2026-11-14 00:46:15,504 touchplay.input shield message: hwnd=329828 msg=0x246 wparam=0x60170a35
+2026-11-14 00:46:15,504 touchplay.input overlay down: id=2613 xy=1160.8,555.2
+2026-11-14 00:46:15,563 touchplay.input Qt native: type=b'windows_generic_MSG' target=329828 msg=0x247 shield=329828
+2026-11-14 00:46:15,564 touchplay.input shield message: hwnd=329828 msg=0x247 wparam=0x60000a35
+2026-11-14 00:46:15,643 touchplay.input Qt native: type=b'windows_generic_MSG' target=329828 msg=0x246 shield=329828
+2026-11-14 00:46:15,643 touchplay.input shield message: hwnd=329828 msg=0x246 wparam=0x60170a36
+2026-11-14 00:46:15,643 touchplay.input overlay down: id=2614 xy=1157.6,548.0
+2026-11-14 00:46:15,699 touchplay.input Qt native: type=b'windows_generic_MSG' target=329828 msg=0x247 shield=329828
+2026-11-14 00:46:15,699 touchplay.input shield message: hwnd=329828 msg=0x247 wparam=0x60000a36
+2026-11-14 00:46:15,773 touchplay.input Qt native: type=b'windows_generic_MSG' target=329828 msg=0x246 shield=329828
+2026-11-14 00:46:15,773 touchplay.input shield message: hwnd=329828 msg=0x246 wparam=0x60170a37
+2026-11-14 00:46:15,773 touchplay.input overlay down: id=2615 xy=1152.8,542.4
+2026-11-14 00:46:15,832 touchplay.input Qt native: type=b'windows_generic_MSG' target=329828 msg=0x247 shield=329828
+2026-11-14 00:46:15,833 touchplay.input shield message: hwnd=329828 msg=0x247 wparam=0x60000a37
+2026-11-14 00:46:16,026 touchplay.input Qt native: type=b'windows_generic_MSG' target=329828 msg=0x246 shield=329828
+2026-11-14 00:46:16,026 touchplay.input shield message: hwnd=329828 msg=0x246 wparam=0x60170a38
+2026-11-14 00:46:16,026 touchplay.input overlay down: id=2616 xy=1156.0,504.8
+2026-11-14 00:46:16,098 touchplay.input Qt native: type=b'windows_generic_MSG' target=329828 msg=0x247 shield=329828
+2026-11-14 00:46:16,099 touchplay.input shield message: hwnd=329828 msg=0x247 wparam=0x60000a38
+2026-11-14 00:46:16,184 touchplay.input Qt native: type=b'windows_generic_MSG' target=329828 msg=0x246 shield=329828
+2026-11-14 00:46:16,184 touchplay.input shield message: hwnd=329828 msg=0x246 wparam=0x60170a39
+2026-11-14 00:46:16,184 touchplay.input overlay down: id=2617 xy=1168.0,513.6
+2026-11-14 00:46:16,314 touchplay.input Qt native: type=b'windows_generic_MSG' target=329828 msg=0x247 shield=329828
+2026-11-14 00:46:16,314 touchplay.input shield message: hwnd=329828 msg=0x247 wparam=0x60000a39
+2026-11-14 00:46:16,763 touchplay.input Qt native: type=b'windows_generic_MSG' target=329828 msg=0x246 shield=329828
+2026-11-14 00:46:16,763 touchplay.input shield message: hwnd=329828 msg=0x246 wparam=0x60170a3a
+2026-11-14 00:46:16,763 touchplay.input overlay down: id=2618 xy=832.0,14.4
+2026-11-14 00:46:16,813 touchplay.input Qt native: type=b'windows_generic_MSG' target=329828 msg=0x247 shield=329828
+2026-11-14 00:46:16,813 touchplay.input shield message: hwnd=329828 msg=0x247 wparam=0x60000a3a
+2026-11-14 00:46:18,390 touchplay.input Qt native: type=b'windows_generic_MSG' target=1968052 msg=0x246 shield=329828
+2026-11-14 00:46:18,391 touchplay.input Qt native: type=b'windows_generic_MSG' target=1968052 msg=0x246 shield=329828
+2026-11-14 00:46:18,400 touchplay.input shield shown: hwnd=395364 rect=(0, 0, 1920, 1080)
+2026-11-14 00:46:18,429 touchplay.input Qt native: type=b'windows_generic_MSG' target=1968052 msg=0x247 shield=395364
+2026-11-14 00:46:18,429 touchplay.input Qt native: type=b'windows_generic_MSG' target=1968052 msg=0x247 shield=395364
+2026-11-14 00:46:18,430 touchplay.input shield message: hwnd=395364 msg=0x202 wparam=0x0
+2026-11-14 00:46:18,964 touchplay.input Qt native: type=b'windows_generic_MSG' target=395364 msg=0x246 shield=395364
+2026-11-14 00:46:18,965 touchplay.input shield message: hwnd=395364 msg=0x246 wparam=0x60170a3f
+2026-11-14 00:46:18,965 touchplay.input overlay down: id=2623 xy=259.2,591.2
+2026-11-14 00:46:20,583 touchplay.input Qt native: type=b'windows_generic_MSG' target=395364 msg=0x247 shield=395364
+2026-11-14 00:46:20,583 touchplay.input shield message: hwnd=395364 msg=0x247 wparam=0x60000a3f
+2026-11-14 00:46:20,749 touchplay.input Qt native: type=b'windows_generic_MSG' target=395364 msg=0x246 shield=395364
+2026-11-14 00:46:20,749 touchplay.input shield message: hwnd=395364 msg=0x246 wparam=0x60170a40
+2026-11-14 00:46:20,750 touchplay.input overlay down: id=2624 xy=1386.4,732.8
+2026-11-14 00:46:20,827 touchplay.input Qt native: type=b'windows_generic_MSG' target=395364 msg=0x247 shield=395364
+2026-11-14 00:46:20,827 touchplay.input shield message: hwnd=395364 msg=0x247 wparam=0x60000a40
+2026-11-14 00:46:20,861 touchplay.input Qt native: type=b'windows_generic_MSG' target=395364 msg=0x246 shield=395364
+2026-11-14 00:46:20,861 touchplay.input shield message: hwnd=395364 msg=0x246 wparam=0x60170a41
+2026-11-14 00:46:20,861 touchplay.input overlay down: id=2625 xy=1409.6,699.2
+2026-11-14 00:46:20,947 touchplay.input Qt native: type=b'windows_generic_MSG' target=395364 msg=0x247 shield=395364
+2026-11-14 00:46:20,947 touchplay.input shield message: hwnd=395364 msg=0x247 wparam=0x60000a41
+2026-11-14 00:46:20,982 touchplay.input Qt native: type=b'windows_generic_MSG' target=395364 msg=0x246 shield=395364
+2026-11-14 00:46:20,982 touchplay.input shield message: hwnd=395364 msg=0x246 wparam=0x60170a42
+2026-11-14 00:46:20,982 touchplay.input overlay down: id=2626 xy=224.8,554.4
+2026-11-14 00:46:21,015 touchplay.input Qt native: type=b'windows_generic_MSG' target=395364 msg=0x246 shield=395364
+2026-11-14 00:46:21,015 touchplay.input shield message: hwnd=395364 msg=0x246 wparam=0x40170a43
+2026-11-14 00:46:21,015 touchplay.input overlay down: id=2627 xy=1403.2,716.8
+2026-11-14 00:46:21,064 touchplay.input Qt native: type=b'windows_generic_MSG' target=395364 msg=0x247 shield=395364
+2026-11-14 00:46:21,064 touchplay.input shield message: hwnd=395364 msg=0x247 wparam=0x40000a43
+2026-11-14 00:46:21,111 touchplay.input Qt native: type=b'windows_generic_MSG' target=395364 msg=0x247 shield=395364
+2026-11-14 00:46:21,112 touchplay.input shield message: hwnd=395364 msg=0x247 wparam=0x60000a42
+2026-11-14 00:46:21,691 touchplay.input Qt native: type=b'windows_generic_MSG' target=395364 msg=0x246 shield=395364
+2026-11-14 00:46:21,691 touchplay.input shield message: hwnd=395364 msg=0x246 wparam=0x60170a44
+2026-11-14 00:46:21,691 touchplay.input overlay down: id=2628 xy=1435.2,585.6
+2026-11-14 00:46:21,764 touchplay.input Qt native: type=b'windows_generic_MSG' target=395364 msg=0x247 shield=395364
+2026-11-14 00:46:21,765 touchplay.input shield message: hwnd=395364 msg=0x247 wparam=0x60000a44
+2026-11-14 00:46:22,037 touchplay.input Qt native: type=b'windows_generic_MSG' target=395364 msg=0x246 shield=395364
+2026-11-14 00:46:22,037 touchplay.input shield message: hwnd=395364 msg=0x246 wparam=0x60170a45
+2026-11-14 00:46:22,037 touchplay.input overlay down: id=2629 xy=1424.0,607.2
+2026-11-14 00:46:22,098 touchplay.input Qt native: type=b'windows_generic_MSG' target=395364 msg=0x247 shield=395364
+2026-11-14 00:46:22,098 touchplay.input shield message: hwnd=395364 msg=0x247 wparam=0x60000a45
+2026-11-14 00:46:22,185 touchplay.input Qt native: type=b'windows_generic_MSG' target=395364 msg=0x246 shield=395364
+2026-11-14 00:46:22,185 touchplay.input shield message: hwnd=395364 msg=0x246 wparam=0x60170a46
+2026-11-14 00:46:22,185 touchplay.input overlay down: id=2630 xy=1435.2,596.8
+2026-11-14 00:46:22,232 touchplay.input Qt native: type=b'windows_generic_MSG' target=395364 msg=0x247 shield=395364
+2026-11-14 00:46:22,232 touchplay.input shield message: hwnd=395364 msg=0x247 wparam=0x60000a46
+2026-11-14 00:46:22,250 touchplay.input Qt native: type=b'windows_generic_MSG' target=395364 msg=0x246 shield=395364
+2026-11-14 00:46:22,250 touchplay.input shield message: hwnd=395364 msg=0x246 wparam=0x60170a47
+2026-11-14 00:46:22,250 touchplay.input overlay down: id=2631 xy=1437.6,591.2
+2026-11-14 00:46:22,331 touchplay.input Qt native: type=b'windows_generic_MSG' target=395364 msg=0x247 shield=395364
+2026-11-14 00:46:22,331 touchplay.input shield message: hwnd=395364 msg=0x247 wparam=0x60000a47
+2026-11-14 00:46:22,594 touchplay.input Qt native: type=b'windows_generic_MSG' target=395364 msg=0x246 shield=395364
+2026-11-14 00:46:22,594 touchplay.input shield message: hwnd=395364 msg=0x246 wparam=0x60170a48
+2026-11-14 00:46:22,594 touchplay.input overlay down: id=2632 xy=25.6,810.4
+2026-11-14 00:46:22,605 touchplay.input Qt native: type=b'windows_generic_MSG' target=395364 msg=0x247 shield=395364
+2026-11-14 00:46:22,605 touchplay.input shield message: hwnd=395364 msg=0x247 wparam=0x60000a48
+2026-11-14 00:46:22,725 touchplay.input Qt native: type=b'windows_generic_MSG' target=395364 msg=0x246 shield=395364
+2026-11-14 00:46:22,725 touchplay.input shield message: hwnd=395364 msg=0x246 wparam=0x60170a49
+2026-11-14 00:46:22,725 touchplay.input overlay down: id=2633 xy=0.0,848.8
+2026-11-14 00:46:22,727 touchplay.input Qt native: type=b'windows_generic_MSG' target=395364 msg=0x247 shield=395364
+2026-11-14 00:46:22,727 touchplay.input shield message: hwnd=395364 msg=0x247 wparam=0x60000a49
+2026-11-14 00:46:24,400 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=767,1050 over_shield=True
+2026-11-14 00:46:24,401 touchplay.input shield message: hwnd=395364 msg=0x201 wparam=0x1
+2026-11-14 00:46:24,401 touchplay.input overlay down: id=mouse xy=613.6,840.0
+2026-11-14 00:46:24,465 touchplay.input shield message: hwnd=395364 msg=0x202 wparam=0x0
+2026-11-14 00:46:25,160 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=1058,21 over_shield=True
+2026-11-14 00:46:25,160 touchplay.input shield message: hwnd=395364 msg=0x201 wparam=0x1
+2026-11-14 00:46:25,161 touchplay.input overlay down: id=mouse xy=846.4,16.8
+2026-11-14 00:46:25,233 touchplay.input shield message: hwnd=395364 msg=0x202 wparam=0x0
+2026-11-14 00:47:42,057 touchplay.input Qt native: type=b'windows_generic_MSG' target=1968052 msg=0x246 shield=395364
+2026-11-14 00:47:42,057 touchplay.input Qt native: type=b'windows_generic_MSG' target=1968052 msg=0x246 shield=395364
+2026-11-14 00:47:42,064 touchplay.input shield shown: hwnd=460900 rect=(0, 0, 1920, 1080)
+2026-11-14 00:47:42,091 touchplay.input Qt native: type=b'windows_generic_MSG' target=1968052 msg=0x247 shield=460900
+2026-11-14 00:47:42,091 touchplay.input Qt native: type=b'windows_generic_MSG' target=1968052 msg=0x247 shield=460900
+2026-11-14 00:47:42,092 touchplay.input shield message: hwnd=460900 msg=0x202 wparam=0x0
+2026-11-14 00:47:42,672 touchplay.input Qt native: type=b'windows_generic_MSG' target=460900 msg=0x246 shield=460900
+2026-11-14 00:47:42,672 touchplay.input shield message: hwnd=460900 msg=0x246 wparam=0x60170a4b
+2026-11-14 00:47:42,673 touchplay.input overlay down: id=2635 xy=219.2,618.4
+2026-11-14 00:47:43,973 touchplay.input Qt native: type=b'windows_generic_MSG' target=460900 msg=0x247 shield=460900
+2026-11-14 00:47:43,974 touchplay.input shield message: hwnd=460900 msg=0x247 wparam=0x60000a4b
+2026-11-14 00:47:44,351 touchplay.input Qt native: type=b'windows_generic_MSG' target=460900 msg=0x246 shield=460900
+2026-11-14 00:47:44,351 touchplay.input shield message: hwnd=460900 msg=0x246 wparam=0x60170a4c
+2026-11-14 00:47:44,351 touchplay.input overlay down: id=2636 xy=1037.6,400.0
+2026-11-14 00:47:44,391 touchplay.input Qt native: type=b'windows_generic_MSG' target=460900 msg=0x247 shield=460900
+2026-11-14 00:47:44,391 touchplay.input shield message: hwnd=460900 msg=0x247 wparam=0x60000a4c
+2026-11-14 00:47:44,407 touchplay.input Qt native: type=b'windows_generic_MSG' target=460900 msg=0x246 shield=460900
+2026-11-14 00:47:44,407 touchplay.input shield message: hwnd=460900 msg=0x246 wparam=0x60170a4d
+2026-11-14 00:47:44,407 touchplay.input overlay down: id=2637 xy=301.6,639.2
+2026-11-14 00:47:44,676 touchplay.input Qt native: type=b'windows_generic_MSG' target=460900 msg=0x247 shield=460900
+2026-11-14 00:47:44,676 touchplay.input shield message: hwnd=460900 msg=0x247 wparam=0x60000a4d
+2026-11-14 00:47:44,799 touchplay.input Qt native: type=b'windows_generic_MSG' target=460900 msg=0x246 shield=460900
+2026-11-14 00:47:44,799 touchplay.input shield message: hwnd=460900 msg=0x246 wparam=0x60170a4e
+2026-11-14 00:47:44,799 touchplay.input overlay down: id=2638 xy=1173.6,388.0
+2026-11-14 00:47:44,828 touchplay.input Qt native: type=b'windows_generic_MSG' target=460900 msg=0x247 shield=460900
+2026-11-14 00:47:44,828 touchplay.input shield message: hwnd=460900 msg=0x247 wparam=0x60000a4e
+2026-11-14 00:47:45,004 touchplay.input Qt native: type=b'windows_generic_MSG' target=460900 msg=0x246 shield=460900
+2026-11-14 00:47:45,004 touchplay.input shield message: hwnd=460900 msg=0x246 wparam=0x60170a4f
+2026-11-14 00:47:45,004 touchplay.input overlay down: id=2639 xy=188.8,564.0
+2026-11-14 00:47:45,154 touchplay.input Qt native: type=b'windows_generic_MSG' target=460900 msg=0x247 shield=460900
+2026-11-14 00:47:45,155 touchplay.input shield message: hwnd=460900 msg=0x247 wparam=0x60000a4f
+2026-11-14 00:47:45,425 touchplay.input Qt native: type=b'windows_generic_MSG' target=460900 msg=0x246 shield=460900
+2026-11-14 00:47:45,426 touchplay.input shield message: hwnd=460900 msg=0x246 wparam=0x60170a50
+2026-11-14 00:47:45,426 touchplay.input overlay down: id=2640 xy=192.0,585.6
+2026-11-14 00:47:45,525 touchplay.input Qt native: type=b'windows_generic_MSG' target=460900 msg=0x247 shield=460900
+2026-11-14 00:47:45,525 touchplay.input shield message: hwnd=460900 msg=0x247 wparam=0x60000a50
+2026-11-14 00:47:45,722 touchplay.input Qt native: type=b'windows_generic_MSG' target=460900 msg=0x246 shield=460900
+2026-11-14 00:47:45,723 touchplay.input shield message: hwnd=460900 msg=0x246 wparam=0x60170a51
+2026-11-14 00:47:45,723 touchplay.input overlay down: id=2641 xy=1459.2,532.0
+2026-11-14 00:47:45,758 touchplay.input Qt native: type=b'windows_generic_MSG' target=460900 msg=0x247 shield=460900
+2026-11-14 00:47:45,758 touchplay.input shield message: hwnd=460900 msg=0x247 wparam=0x60000a51
+2026-11-14 00:47:46,012 touchplay.input Qt native: type=b'windows_generic_MSG' target=460900 msg=0x246 shield=460900
+2026-11-14 00:47:46,012 touchplay.input shield message: hwnd=460900 msg=0x246 wparam=0x60170a52
+2026-11-14 00:47:46,012 touchplay.input overlay down: id=2642 xy=1409.6,401.6
+2026-11-14 00:47:46,077 touchplay.input Qt native: type=b'windows_generic_MSG' target=460900 msg=0x247 shield=460900
+2026-11-14 00:47:46,077 touchplay.input shield message: hwnd=460900 msg=0x247 wparam=0x60000a52
+2026-11-14 00:47:46,300 touchplay.input Qt native: type=b'windows_generic_MSG' target=460900 msg=0x246 shield=460900
+2026-11-14 00:47:46,300 touchplay.input shield message: hwnd=460900 msg=0x246 wparam=0x60170a53
+2026-11-14 00:47:46,300 touchplay.input overlay down: id=2643 xy=241.6,103.2
+2026-11-14 00:47:46,339 touchplay.input Qt native: type=b'windows_generic_MSG' target=460900 msg=0x247 shield=460900
+2026-11-14 00:47:46,340 touchplay.input shield message: hwnd=460900 msg=0x247 wparam=0x60000a53
+2026-11-14 00:47:46,440 touchplay.input Qt native: type=b'windows_generic_MSG' target=460900 msg=0x246 shield=460900
+2026-11-14 00:47:46,440 touchplay.input shield message: hwnd=460900 msg=0x246 wparam=0x60170a54
+2026-11-14 00:47:46,441 touchplay.input overlay down: id=2644 xy=268.0,140.8
+2026-11-14 00:47:46,495 touchplay.input Qt native: type=b'windows_generic_MSG' target=460900 msg=0x247 shield=460900
+2026-11-14 00:47:46,495 touchplay.input shield message: hwnd=460900 msg=0x247 wparam=0x60000a54
+2026-11-14 00:47:46,562 touchplay.input Qt native: type=b'windows_generic_MSG' target=460900 msg=0x246 shield=460900
+2026-11-14 00:47:46,562 touchplay.input shield message: hwnd=460900 msg=0x246 wparam=0x60170a55
+2026-11-14 00:47:46,562 touchplay.input overlay down: id=2645 xy=259.2,146.4
+2026-11-14 00:47:46,655 touchplay.input Qt native: type=b'windows_generic_MSG' target=460900 msg=0x247 shield=460900
+2026-11-14 00:47:46,655 touchplay.input shield message: hwnd=460900 msg=0x247 wparam=0x60000a55
+2026-11-14 00:47:46,804 touchplay.input Qt native: type=b'windows_generic_MSG' target=460900 msg=0x246 shield=460900
+2026-11-14 00:47:46,804 touchplay.input shield message: hwnd=460900 msg=0x246 wparam=0x60170a56
+2026-11-14 00:47:46,804 touchplay.input overlay down: id=2646 xy=1250.4,519.2
+2026-11-14 00:47:47,674 touchplay.input Qt native: type=b'windows_generic_MSG' target=460900 msg=0x247 shield=460900
+2026-11-14 00:47:47,675 touchplay.input shield message: hwnd=460900 msg=0x247 wparam=0x60000a56
+2026-11-14 00:47:48,946 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=625,205 over_shield=True
+2026-11-14 00:47:48,946 touchplay.input shield message: hwnd=460900 msg=0x201 wparam=0x1
+2026-11-14 00:47:48,946 touchplay.input overlay down: id=mouse xy=500.0,164.0
+2026-11-14 00:47:49,034 touchplay.input shield message: hwnd=460900 msg=0x202 wparam=0x0
+2026-11-14 00:47:49,105 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=631,197 over_shield=True
+2026-11-14 00:47:49,106 touchplay.input shield message: hwnd=460900 msg=0x201 wparam=0x1
+2026-11-14 00:47:49,106 touchplay.input overlay down: id=mouse xy=504.8,157.6
+2026-11-14 00:47:49,241 touchplay.input shield message: hwnd=460900 msg=0x202 wparam=0x0
+2026-11-14 00:47:50,074 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=1064,34 over_shield=True
+2026-11-14 00:47:50,074 touchplay.input shield message: hwnd=460900 msg=0x201 wparam=0x1
+2026-11-14 00:47:50,075 touchplay.input overlay down: id=mouse xy=851.2,27.2
+2026-11-14 00:47:50,131 touchplay.input shield message: hwnd=460900 msg=0x202 wparam=0x0
+2026-11-14 00:47:52,878 touchplay.input Qt native: type=b'windows_generic_MSG' target=1968052 msg=0x246 shield=460900
+2026-11-14 00:47:52,878 touchplay.input Qt native: type=b'windows_generic_MSG' target=1968052 msg=0x246 shield=460900
+2026-11-14 00:47:52,887 touchplay.input shield shown: hwnd=526436 rect=(0, 0, 1920, 1080)
+2026-11-14 00:47:52,942 touchplay.input Qt native: type=b'windows_generic_MSG' target=1968052 msg=0x247 shield=526436
+2026-11-14 00:47:52,942 touchplay.input Qt native: type=b'windows_generic_MSG' target=1968052 msg=0x247 shield=526436
+2026-11-14 00:47:52,942 touchplay.input shield message: hwnd=526436 msg=0x202 wparam=0x0
+2026-11-14 00:47:55,561 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x246 shield=526436
+2026-11-14 00:47:55,561 touchplay.input shield message: hwnd=526436 msg=0x246 wparam=0x60170a58
+2026-11-14 00:47:55,561 touchplay.input overlay down: id=2648 xy=1388.0,587.2
+2026-11-14 00:47:55,639 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x247 shield=526436
+2026-11-14 00:47:55,639 touchplay.input shield message: hwnd=526436 msg=0x247 wparam=0x60000a58
+2026-11-14 00:47:55,737 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x246 shield=526436
+2026-11-14 00:47:55,737 touchplay.input shield message: hwnd=526436 msg=0x246 wparam=0x60170a59
+2026-11-14 00:47:55,737 touchplay.input overlay down: id=2649 xy=1403.2,673.6
+2026-11-14 00:47:55,764 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x247 shield=526436
+2026-11-14 00:47:55,764 touchplay.input shield message: hwnd=526436 msg=0x247 wparam=0x60000a59
+2026-11-14 00:47:55,821 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x246 shield=526436
+2026-11-14 00:47:55,821 touchplay.input shield message: hwnd=526436 msg=0x246 wparam=0x60170a5a
+2026-11-14 00:47:55,821 touchplay.input overlay down: id=2650 xy=1424.0,677.6
+2026-11-14 00:47:55,868 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x247 shield=526436
+2026-11-14 00:47:55,869 touchplay.input shield message: hwnd=526436 msg=0x247 wparam=0x60000a5a
+2026-11-14 00:47:55,924 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x246 shield=526436
+2026-11-14 00:47:55,924 touchplay.input shield message: hwnd=526436 msg=0x246 wparam=0x60170a5b
+2026-11-14 00:47:55,924 touchplay.input overlay down: id=2651 xy=1432.0,611.2
+2026-11-14 00:47:55,955 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x246 shield=526436
+2026-11-14 00:47:55,955 touchplay.input shield message: hwnd=526436 msg=0x246 wparam=0x40170a5c
+2026-11-14 00:47:55,955 touchplay.input overlay down: id=2652 xy=3.2,718.4
+2026-11-14 00:47:55,956 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x247 shield=526436
+2026-11-14 00:47:55,956 touchplay.input shield message: hwnd=526436 msg=0x247 wparam=0x60000a5b
+2026-11-14 00:47:55,972 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x247 shield=526436
+2026-11-14 00:47:55,972 touchplay.input shield message: hwnd=526436 msg=0x247 wparam=0x40000a5c
+2026-11-14 00:47:56,242 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x246 shield=526436
+2026-11-14 00:47:56,242 touchplay.input shield message: hwnd=526436 msg=0x246 wparam=0x60170a5e
+2026-11-14 00:47:56,242 touchplay.input overlay down: id=2654 xy=271.2,616.0
+2026-11-14 00:47:56,272 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x246 shield=526436
+2026-11-14 00:47:56,272 touchplay.input shield message: hwnd=526436 msg=0x246 wparam=0x40170a5f
+2026-11-14 00:47:56,272 touchplay.input overlay down: id=2655 xy=1457.6,352.8
+2026-11-14 00:47:56,328 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x247 shield=526436
+2026-11-14 00:47:56,328 touchplay.input shield message: hwnd=526436 msg=0x247 wparam=0x40000a5f
+2026-11-14 00:47:56,395 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x247 shield=526436
+2026-11-14 00:47:56,395 touchplay.input shield message: hwnd=526436 msg=0x247 wparam=0x60000a5e
+2026-11-14 00:47:57,146 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x246 shield=526436
+2026-11-14 00:47:57,146 touchplay.input shield message: hwnd=526436 msg=0x246 wparam=0x60170a62
+2026-11-14 00:47:57,146 touchplay.input overlay down: id=2658 xy=344.8,509.6
+2026-11-14 00:47:57,202 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x247 shield=526436
+2026-11-14 00:47:57,203 touchplay.input shield message: hwnd=526436 msg=0x247 wparam=0x60000a62
+2026-11-14 00:47:57,500 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x246 shield=526436
+2026-11-14 00:47:57,500 touchplay.input shield message: hwnd=526436 msg=0x246 wparam=0x60170a63
+2026-11-14 00:47:57,500 touchplay.input overlay down: id=2659 xy=276.0,490.4
+2026-11-14 00:47:57,551 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x247 shield=526436
+2026-11-14 00:47:57,551 touchplay.input shield message: hwnd=526436 msg=0x247 wparam=0x60000a63
+2026-11-14 00:47:57,695 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x246 shield=526436
+2026-11-14 00:47:57,695 touchplay.input shield message: hwnd=526436 msg=0x246 wparam=0x60170a64
+2026-11-14 00:47:57,695 touchplay.input overlay down: id=2660 xy=259.2,600.0
+2026-11-14 00:47:57,812 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x247 shield=526436
+2026-11-14 00:47:57,812 touchplay.input shield message: hwnd=526436 msg=0x247 wparam=0x60000a64
+2026-11-14 00:47:57,976 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x246 shield=526436
+2026-11-14 00:47:57,976 touchplay.input shield message: hwnd=526436 msg=0x246 wparam=0x60170a65
+2026-11-14 00:47:57,976 touchplay.input overlay down: id=2661 xy=205.6,561.6
+2026-11-14 00:47:58,087 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x247 shield=526436
+2026-11-14 00:47:58,087 touchplay.input shield message: hwnd=526436 msg=0x247 wparam=0x60000a65
+2026-11-14 00:47:58,102 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x246 shield=526436
+2026-11-14 00:47:58,102 touchplay.input shield message: hwnd=526436 msg=0x246 wparam=0x60170a66
+2026-11-14 00:47:58,102 touchplay.input overlay down: id=2662 xy=1108.0,320.8
+2026-11-14 00:47:58,163 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x247 shield=526436
+2026-11-14 00:47:58,163 touchplay.input shield message: hwnd=526436 msg=0x247 wparam=0x60000a66
+2026-11-14 00:47:58,312 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x246 shield=526436
+2026-11-14 00:47:58,312 touchplay.input shield message: hwnd=526436 msg=0x246 wparam=0x60170a67
+2026-11-14 00:47:58,312 touchplay.input overlay down: id=2663 xy=1067.2,293.6
+2026-11-14 00:47:58,371 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x247 shield=526436
+2026-11-14 00:47:58,371 touchplay.input shield message: hwnd=526436 msg=0x247 wparam=0x60000a67
+2026-11-14 00:47:58,471 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x246 shield=526436
+2026-11-14 00:47:58,471 touchplay.input shield message: hwnd=526436 msg=0x246 wparam=0x60170a68
+2026-11-14 00:47:58,471 touchplay.input overlay down: id=2664 xy=229.6,605.6
+2026-11-14 00:47:58,502 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x246 shield=526436
+2026-11-14 00:47:58,503 touchplay.input shield message: hwnd=526436 msg=0x246 wparam=0x40170a69
+2026-11-14 00:47:58,503 touchplay.input overlay down: id=2665 xy=1053.6,294.4
+2026-11-14 00:47:58,552 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x247 shield=526436
+2026-11-14 00:47:58,552 touchplay.input shield message: hwnd=526436 msg=0x247 wparam=0x40000a69
+2026-11-14 00:47:58,553 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x247 shield=526436
+2026-11-14 00:47:58,553 touchplay.input shield message: hwnd=526436 msg=0x247 wparam=0x60000a68
+2026-11-14 00:47:58,787 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x246 shield=526436
+2026-11-14 00:47:58,787 touchplay.input shield message: hwnd=526436 msg=0x246 wparam=0x60170a6a
+2026-11-14 00:47:58,787 touchplay.input overlay down: id=2666 xy=244.0,542.4
+2026-11-14 00:47:58,855 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x247 shield=526436
+2026-11-14 00:47:58,855 touchplay.input shield message: hwnd=526436 msg=0x247 wparam=0x60000a6a
+2026-11-14 00:47:58,871 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x246 shield=526436
+2026-11-14 00:47:58,871 touchplay.input shield message: hwnd=526436 msg=0x246 wparam=0x60170a6b
+2026-11-14 00:47:58,871 touchplay.input overlay down: id=2667 xy=137.6,116.8
+2026-11-14 00:47:58,929 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x247 shield=526436
+2026-11-14 00:47:58,929 touchplay.input shield message: hwnd=526436 msg=0x247 wparam=0x60000a6b
+2026-11-14 00:47:59,020 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x246 shield=526436
+2026-11-14 00:47:59,020 touchplay.input shield message: hwnd=526436 msg=0x246 wparam=0x60170a6c
+2026-11-14 00:47:59,020 touchplay.input overlay down: id=2668 xy=79.2,156.8
+2026-11-14 00:47:59,098 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x247 shield=526436
+2026-11-14 00:47:59,098 touchplay.input shield message: hwnd=526436 msg=0x247 wparam=0x60000a6c
+2026-11-14 00:47:59,160 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x246 shield=526436
+2026-11-14 00:47:59,160 touchplay.input shield message: hwnd=526436 msg=0x246 wparam=0x60170a6d
+2026-11-14 00:47:59,160 touchplay.input overlay down: id=2669 xy=40.8,108.0
+2026-11-14 00:47:59,234 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x247 shield=526436
+2026-11-14 00:47:59,235 touchplay.input shield message: hwnd=526436 msg=0x247 wparam=0x60000a6d
+2026-11-14 00:47:59,337 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x246 shield=526436
+2026-11-14 00:47:59,337 touchplay.input shield message: hwnd=526436 msg=0x246 wparam=0x60170a6e
+2026-11-14 00:47:59,337 touchplay.input overlay down: id=2670 xy=72.0,130.4
+2026-11-14 00:47:59,395 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x247 shield=526436
+2026-11-14 00:47:59,395 touchplay.input shield message: hwnd=526436 msg=0x247 wparam=0x60000a6e
+2026-11-14 00:47:59,468 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x246 shield=526436
+2026-11-14 00:47:59,468 touchplay.input shield message: hwnd=526436 msg=0x246 wparam=0x60170a6f
+2026-11-14 00:47:59,468 touchplay.input overlay down: id=2671 xy=65.6,126.4
+2026-11-14 00:47:59,560 touchplay.input Qt native: type=b'windows_generic_MSG' target=526436 msg=0x247 shield=526436
+2026-11-14 00:47:59,561 touchplay.input shield message: hwnd=526436 msg=0x247 wparam=0x60000a6f
+2026-11-14 00:48:01,305 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=771,1043 over_shield=True
+2026-11-14 00:48:01,306 touchplay.input shield message: hwnd=526436 msg=0x201 wparam=0x1
+2026-11-14 00:48:01,306 touchplay.input overlay down: id=mouse xy=616.8,834.4
+2026-11-14 00:48:01,369 touchplay.input shield message: hwnd=526436 msg=0x202 wparam=0x0
+2026-11-14 00:48:02,385 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=1026,61 over_shield=True
+2026-11-14 00:48:02,386 touchplay.input shield message: hwnd=526436 msg=0x201 wparam=0x1
+2026-11-14 00:48:02,386 touchplay.input overlay down: id=mouse xy=820.8,48.8
+2026-11-14 00:48:02,442 touchplay.input shield message: hwnd=526436 msg=0x202 wparam=0x0
+2026-11-14 00:48:22,013 touchplay.input shield shown: hwnd=591972 rect=(0, 0, 1920, 1080)
+2026-11-14 00:48:22,105 touchplay.input shield message: hwnd=591972 msg=0x202 wparam=0x0
+2026-11-14 00:48:23,026 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=993,36 over_shield=True
+2026-11-14 00:48:23,028 touchplay.input shield message: hwnd=591972 msg=0x201 wparam=0x1
+2026-11-14 00:48:23,028 touchplay.input overlay down: id=mouse xy=794.4,28.8
+2026-11-14 00:48:23,065 touchplay.input shield message: hwnd=591972 msg=0x202 wparam=0x0
+2026-11-14 00:48:27,828 touchplay.input shield shown: hwnd=657508 rect=(0, 0, 1920, 1080)
+2026-11-14 00:48:27,883 touchplay.input shield message: hwnd=657508 msg=0x202 wparam=0x0
+2026-11-14 00:48:29,226 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=928,49 over_shield=True
+2026-11-14 00:48:29,229 touchplay.input shield message: hwnd=657508 msg=0x201 wparam=0x1
+2026-11-14 00:48:29,229 touchplay.input overlay down: id=mouse xy=742.4,39.2
+2026-11-14 00:48:29,300 touchplay.input shield message: hwnd=657508 msg=0x202 wparam=0x0
+2026-11-14 00:48:31,475 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=1257,49 over_shield=True
+2026-11-14 00:48:31,475 touchplay.input shield message: hwnd=657508 msg=0x201 wparam=0x1
+2026-11-14 00:48:31,475 touchplay.input overlay down: id=mouse xy=1005.6,39.2
+2026-11-14 00:48:31,531 touchplay.input shield message: hwnd=657508 msg=0x202 wparam=0x0
+2026-11-14 00:48:32,290 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=1287,1079 over_shield=True
+2026-11-14 00:48:32,291 touchplay.input shield message: hwnd=657508 msg=0x201 wparam=0x1
+2026-11-14 00:48:32,291 touchplay.input overlay down: id=mouse xy=1029.6,863.2
+2026-11-14 00:48:32,347 touchplay.input shield message: hwnd=657508 msg=0x202 wparam=0x0
+2026-11-14 00:48:32,610 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=1284,1049 over_shield=True
+2026-11-14 00:48:32,611 touchplay.input shield message: hwnd=657508 msg=0x201 wparam=0x1
+2026-11-14 00:48:32,611 touchplay.input overlay down: id=mouse xy=1027.2,839.2
+2026-11-14 00:48:32,691 touchplay.input shield message: hwnd=657508 msg=0x202 wparam=0x0
+2026-11-14 00:48:33,418 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=999,24 over_shield=True
+2026-11-14 00:48:33,419 touchplay.input shield message: hwnd=657508 msg=0x201 wparam=0x1
+2026-11-14 00:48:33,419 touchplay.input overlay down: id=mouse xy=799.2,19.2
+2026-11-14 00:48:33,467 touchplay.input shield message: hwnd=657508 msg=0x202 wparam=0x0
+2026-11-14 00:48:39,901 touchplay.input shield shown: hwnd=723044 rect=(0, 0, 1920, 1080)
+2026-11-14 00:48:39,939 touchplay.input shield message: hwnd=723044 msg=0x202 wparam=0x0
+2026-11-14 00:48:40,554 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=116,173 over_shield=True
+2026-11-14 00:48:40,556 touchplay.input shield message: hwnd=723044 msg=0x201 wparam=0x1
+2026-11-14 00:48:40,556 touchplay.input overlay down: id=mouse xy=92.8,138.4
+2026-11-14 00:48:40,618 touchplay.input shield message: hwnd=723044 msg=0x202 wparam=0x0
+2026-11-14 00:48:40,650 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=116,173 over_shield=True
+2026-11-14 00:48:40,651 touchplay.input shield message: hwnd=723044 msg=0x201 wparam=0x1
+2026-11-14 00:48:40,651 touchplay.input overlay down: id=mouse xy=92.8,138.4
+2026-11-14 00:48:40,690 touchplay.input shield message: hwnd=723044 msg=0x202 wparam=0x0
+2026-11-14 00:48:40,731 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=116,173 over_shield=True
+2026-11-14 00:48:40,731 touchplay.input shield message: hwnd=723044 msg=0x201 wparam=0x1
+2026-11-14 00:48:40,732 touchplay.input overlay down: id=mouse xy=92.8,138.4
+2026-11-14 00:48:40,779 touchplay.input shield message: hwnd=723044 msg=0x202 wparam=0x0
+2026-11-14 00:48:40,834 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=116,172 over_shield=True
+2026-11-14 00:48:40,834 touchplay.input shield message: hwnd=723044 msg=0x201 wparam=0x1
+2026-11-14 00:48:40,835 touchplay.input overlay down: id=mouse xy=92.8,137.6
+2026-11-14 00:48:40,891 touchplay.input shield message: hwnd=723044 msg=0x202 wparam=0x0
+2026-11-14 00:48:41,138 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=291,717 over_shield=True
+2026-11-14 00:48:41,139 touchplay.input shield message: hwnd=723044 msg=0x201 wparam=0x1
+2026-11-14 00:48:41,139 touchplay.input overlay down: id=mouse xy=232.8,573.6
+2026-11-14 00:48:41,920 touchplay.input shield message: hwnd=723044 msg=0x202 wparam=0x0
+2026-11-14 00:48:42,338 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=1184,1072 over_shield=True
+2026-11-14 00:48:42,339 touchplay.input shield message: hwnd=723044 msg=0x201 wparam=0x1
+2026-11-14 00:48:42,339 touchplay.input overlay down: id=mouse xy=947.2,857.6
+2026-11-14 00:48:42,426 touchplay.input shield message: hwnd=723044 msg=0x202 wparam=0x0
+2026-11-14 00:48:42,619 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=1198,1053 over_shield=True
+2026-11-14 00:48:42,619 touchplay.input shield message: hwnd=723044 msg=0x201 wparam=0x1
+2026-11-14 00:48:42,619 touchplay.input overlay down: id=mouse xy=958.4,842.4
+2026-11-14 00:48:42,715 touchplay.input shield message: hwnd=723044 msg=0x202 wparam=0x0
+2026-11-14 00:48:45,403 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=729,160 over_shield=True
+2026-11-14 00:48:45,405 touchplay.input shield message: hwnd=723044 msg=0x201 wparam=0x1
+2026-11-14 00:48:45,405 touchplay.input overlay down: id=mouse xy=583.2,128.0
+2026-11-14 00:48:45,501 touchplay.input shield message: hwnd=723044 msg=0x202 wparam=0x0
+2026-11-14 00:48:45,563 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=727,158 over_shield=True
+2026-11-14 00:48:45,564 touchplay.input shield message: hwnd=723044 msg=0x201 wparam=0x1
+2026-11-14 00:48:45,564 touchplay.input overlay down: id=mouse xy=581.6,126.4
+2026-11-14 00:48:45,699 touchplay.input shield message: hwnd=723044 msg=0x202 wparam=0x0
+2026-11-14 00:48:45,794 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=736,156 over_shield=True
+2026-11-14 00:48:45,795 touchplay.input shield message: hwnd=723044 msg=0x201 wparam=0x1
+2026-11-14 00:48:45,795 touchplay.input overlay down: id=mouse xy=588.8,124.8
+2026-11-14 00:48:45,890 touchplay.input shield message: hwnd=723044 msg=0x202 wparam=0x0
+2026-11-14 00:48:46,122 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=869,94 over_shield=True
+2026-11-14 00:48:46,123 touchplay.input shield message: hwnd=723044 msg=0x201 wparam=0x1
+2026-11-14 00:48:46,123 touchplay.input overlay down: id=mouse xy=695.2,75.2
+2026-11-14 00:48:46,209 touchplay.input shield message: hwnd=723044 msg=0x202 wparam=0x0
+2026-11-14 00:48:46,282 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=907,62 over_shield=True
+2026-11-14 00:48:46,283 touchplay.input shield message: hwnd=723044 msg=0x201 wparam=0x1
+2026-11-14 00:48:46,283 touchplay.input overlay down: id=mouse xy=725.6,49.6
+2026-11-14 00:48:46,355 touchplay.input shield message: hwnd=723044 msg=0x202 wparam=0x0
+2026-11-14 00:48:46,418 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=907,61 over_shield=True
+2026-11-14 00:48:46,419 touchplay.input shield message: hwnd=723044 msg=0x201 wparam=0x1
+2026-11-14 00:48:46,419 touchplay.input overlay down: id=mouse xy=725.6,48.8
+2026-11-14 00:48:46,474 touchplay.input shield message: hwnd=723044 msg=0x202 wparam=0x0
+2026-11-14 00:48:47,523 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=1131,346 over_shield=True
+2026-11-14 00:48:47,524 touchplay.input shield message: hwnd=723044 msg=0x201 wparam=0x1
+2026-11-14 00:48:47,524 touchplay.input overlay down: id=mouse xy=904.8,276.8
+2026-11-14 00:48:47,627 touchplay.input shield message: hwnd=723044 msg=0x202 wparam=0x0
+2026-11-14 00:48:49,219 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=1220,57 over_shield=True
+2026-11-14 00:48:49,220 touchplay.input shield message: hwnd=723044 msg=0x201 wparam=0x1
+2026-11-14 00:48:49,220 touchplay.input overlay down: id=mouse xy=976.0,45.6
+2026-11-14 00:48:49,283 touchplay.input shield message: hwnd=723044 msg=0x202 wparam=0x0
+2026-11-14 00:48:49,842 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=636,368 over_shield=True
+2026-11-14 00:48:49,843 touchplay.input shield message: hwnd=723044 msg=0x201 wparam=0x1
+2026-11-14 00:48:49,843 touchplay.input overlay down: id=mouse xy=508.8,294.4
+2026-11-14 00:48:49,937 touchplay.input shield message: hwnd=723044 msg=0x202 wparam=0x0
+2026-11-14 00:48:49,970 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=641,364 over_shield=True
+2026-11-14 00:48:49,971 touchplay.input shield message: hwnd=723044 msg=0x201 wparam=0x1
+2026-11-14 00:48:49,971 touchplay.input overlay down: id=mouse xy=512.8,291.2
+2026-11-14 00:48:50,053 touchplay.input shield message: hwnd=723044 msg=0x202 wparam=0x0
+2026-11-14 00:48:50,091 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=649,359 over_shield=True
+2026-11-14 00:48:50,092 touchplay.input shield message: hwnd=723044 msg=0x201 wparam=0x1
+2026-11-14 00:48:50,092 touchplay.input overlay down: id=mouse xy=519.2,287.2
+2026-11-14 00:48:50,162 touchplay.input shield message: hwnd=723044 msg=0x202 wparam=0x0
+2026-11-14 00:48:50,474 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=186,166 over_shield=True
+2026-11-14 00:48:50,475 touchplay.input shield message: hwnd=723044 msg=0x201 wparam=0x1
+2026-11-14 00:48:50,475 touchplay.input overlay down: id=mouse xy=148.8,132.8
+2026-11-14 00:48:50,551 touchplay.input shield message: hwnd=723044 msg=0x202 wparam=0x0
+2026-11-14 00:48:50,706 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=119,152 over_shield=True
+2026-11-14 00:48:50,707 touchplay.input shield message: hwnd=723044 msg=0x201 wparam=0x1
+2026-11-14 00:48:50,707 touchplay.input overlay down: id=mouse xy=95.2,121.6
+2026-11-14 00:48:50,787 touchplay.input shield message: hwnd=723044 msg=0x202 wparam=0x0
+2026-11-14 00:48:50,842 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=119,152 over_shield=True
+2026-11-14 00:48:50,843 touchplay.input shield message: hwnd=723044 msg=0x201 wparam=0x1
+2026-11-14 00:48:50,843 touchplay.input overlay down: id=mouse xy=95.2,121.6
+2026-11-14 00:48:50,875 touchplay.input shield message: hwnd=723044 msg=0x202 wparam=0x0
+2026-11-14 00:48:50,947 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=119,152 over_shield=True
+2026-11-14 00:48:50,948 touchplay.input shield message: hwnd=723044 msg=0x201 wparam=0x1
+2026-11-14 00:48:50,948 touchplay.input overlay down: id=mouse xy=95.2,121.6
+2026-11-14 00:48:50,979 touchplay.input shield message: hwnd=723044 msg=0x202 wparam=0x0
+2026-11-14 00:48:51,034 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=119,152 over_shield=True
+2026-11-14 00:48:51,035 touchplay.input shield message: hwnd=723044 msg=0x201 wparam=0x1
+2026-11-14 00:48:51,035 touchplay.input overlay down: id=mouse xy=95.2,121.6
+2026-11-14 00:48:51,082 touchplay.input shield message: hwnd=723044 msg=0x202 wparam=0x0
+2026-11-14 00:48:51,696 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x246 shield=723044
+2026-11-14 00:48:51,696 touchplay.input shield message: hwnd=723044 msg=0x246 wparam=0x60170a70
+2026-11-14 00:48:51,697 touchplay.input overlay down: id=2672 xy=125.6,172.8
+2026-11-14 00:48:51,765 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x247 shield=723044
+2026-11-14 00:48:51,765 touchplay.input shield message: hwnd=723044 msg=0x247 wparam=0x60000a70
+2026-11-14 00:48:51,844 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x246 shield=723044
+2026-11-14 00:48:51,844 touchplay.input shield message: hwnd=723044 msg=0x246 wparam=0x60170a71
+2026-11-14 00:48:51,844 touchplay.input overlay down: id=2673 xy=104.8,116.8
+2026-11-14 00:48:51,928 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x247 shield=723044
+2026-11-14 00:48:51,928 touchplay.input shield message: hwnd=723044 msg=0x247 wparam=0x60000a71
+2026-11-14 00:48:51,967 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x246 shield=723044
+2026-11-14 00:48:51,967 touchplay.input shield message: hwnd=723044 msg=0x246 wparam=0x60170a72
+2026-11-14 00:48:51,967 touchplay.input overlay down: id=2674 xy=99.2,129.6
+2026-11-14 00:48:52,050 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x247 shield=723044
+2026-11-14 00:48:52,051 touchplay.input shield message: hwnd=723044 msg=0x247 wparam=0x60000a72
+2026-11-14 00:48:52,089 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x246 shield=723044
+2026-11-14 00:48:52,089 touchplay.input shield message: hwnd=723044 msg=0x246 wparam=0x60170a73
+2026-11-14 00:48:52,089 touchplay.input overlay down: id=2675 xy=68.8,126.4
+2026-11-14 00:48:52,127 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x247 shield=723044
+2026-11-14 00:48:52,127 touchplay.input shield message: hwnd=723044 msg=0x247 wparam=0x60000a73
+2026-11-14 00:48:52,320 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x246 shield=723044
+2026-11-14 00:48:52,320 touchplay.input shield message: hwnd=723044 msg=0x246 wparam=0x60170a74
+2026-11-14 00:48:52,320 touchplay.input overlay down: id=2676 xy=52.8,130.4
+2026-11-14 00:48:52,377 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x247 shield=723044
+2026-11-14 00:48:52,378 touchplay.input shield message: hwnd=723044 msg=0x247 wparam=0x60000a74
+2026-11-14 00:48:52,442 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x246 shield=723044
+2026-11-14 00:48:52,442 touchplay.input shield message: hwnd=723044 msg=0x246 wparam=0x60170a75
+2026-11-14 00:48:52,443 touchplay.input overlay down: id=2677 xy=73.6,137.6
+2026-11-14 00:48:52,510 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x247 shield=723044
+2026-11-14 00:48:52,511 touchplay.input shield message: hwnd=723044 msg=0x247 wparam=0x60000a75
+2026-11-14 00:48:52,553 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x246 shield=723044
+2026-11-14 00:48:52,553 touchplay.input shield message: hwnd=723044 msg=0x246 wparam=0x60170a76
+2026-11-14 00:48:52,553 touchplay.input overlay down: id=2678 xy=55.2,129.6
+2026-11-14 00:48:52,631 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x247 shield=723044
+2026-11-14 00:48:52,631 touchplay.input shield message: hwnd=723044 msg=0x247 wparam=0x60000a76
+2026-11-14 00:48:52,685 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x246 shield=723044
+2026-11-14 00:48:52,685 touchplay.input shield message: hwnd=723044 msg=0x246 wparam=0x60170a77
+2026-11-14 00:48:52,685 touchplay.input overlay down: id=2679 xy=52.8,148.0
+2026-11-14 00:48:52,771 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x247 shield=723044
+2026-11-14 00:48:52,771 touchplay.input shield message: hwnd=723044 msg=0x247 wparam=0x60000a77
+2026-11-14 00:48:52,927 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x246 shield=723044
+2026-11-14 00:48:52,927 touchplay.input shield message: hwnd=723044 msg=0x246 wparam=0x60170a78
+2026-11-14 00:48:52,927 touchplay.input overlay down: id=2680 xy=1396.0,672.0
+2026-11-14 00:48:52,966 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x247 shield=723044
+2026-11-14 00:48:52,966 touchplay.input shield message: hwnd=723044 msg=0x247 wparam=0x60000a78
+2026-11-14 00:48:53,048 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x246 shield=723044
+2026-11-14 00:48:53,048 touchplay.input shield message: hwnd=723044 msg=0x246 wparam=0x60170a79
+2026-11-14 00:48:53,048 touchplay.input overlay down: id=2681 xy=1408.0,660.0
+2026-11-14 00:48:53,124 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x247 shield=723044
+2026-11-14 00:48:53,124 touchplay.input shield message: hwnd=723044 msg=0x247 wparam=0x60000a79
+2026-11-14 00:48:53,160 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x246 shield=723044
+2026-11-14 00:48:53,161 touchplay.input shield message: hwnd=723044 msg=0x246 wparam=0x60170a7a
+2026-11-14 00:48:53,161 touchplay.input overlay down: id=2682 xy=217.6,632.0
+2026-11-14 00:48:53,325 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x247 shield=723044
+2026-11-14 00:48:53,325 touchplay.input shield message: hwnd=723044 msg=0x247 wparam=0x60000a7a
+2026-11-14 00:48:53,365 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x246 shield=723044
+2026-11-14 00:48:53,365 touchplay.input shield message: hwnd=723044 msg=0x246 wparam=0x60170a7b
+2026-11-14 00:48:53,365 touchplay.input overlay down: id=2683 xy=1454.4,390.4
+2026-11-14 00:48:53,433 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x247 shield=723044
+2026-11-14 00:48:53,433 touchplay.input shield message: hwnd=723044 msg=0x247 wparam=0x60000a7b
+2026-11-14 00:48:53,488 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x246 shield=723044
+2026-11-14 00:48:53,488 touchplay.input shield message: hwnd=723044 msg=0x246 wparam=0x60170a7c
+2026-11-14 00:48:53,488 touchplay.input overlay down: id=2684 xy=228.0,690.4
+2026-11-14 00:48:53,508 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x246 shield=723044
+2026-11-14 00:48:53,508 touchplay.input shield message: hwnd=723044 msg=0x246 wparam=0x40170a7d
+2026-11-14 00:48:53,508 touchplay.input overlay down: id=2685 xy=1457.6,356.8
+2026-11-14 00:48:53,563 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x247 shield=723044
+2026-11-14 00:48:53,563 touchplay.input shield message: hwnd=723044 msg=0x247 wparam=0x40000a7d
+2026-11-14 00:48:53,612 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x247 shield=723044
+2026-11-14 00:48:53,612 touchplay.input shield message: hwnd=723044 msg=0x247 wparam=0x60000a7c
+2026-11-14 00:48:53,682 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x246 shield=723044
+2026-11-14 00:48:53,682 touchplay.input shield message: hwnd=723044 msg=0x246 wparam=0x60170a7e
+2026-11-14 00:48:53,682 touchplay.input overlay down: id=2686 xy=1478.4,228.8
+2026-11-14 00:48:53,696 touchplay.input shield message: hwnd=723044 msg=0x201 wparam=0x1
+2026-11-14 00:48:53,740 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x247 shield=723044
+2026-11-14 00:48:53,740 touchplay.input shield message: hwnd=723044 msg=0x247 wparam=0x60000a7e
+2026-11-14 00:48:53,741 touchplay.input shield message: hwnd=723044 msg=0x202 wparam=0x0
+2026-11-14 00:48:53,877 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x246 shield=723044
+2026-11-14 00:48:53,877 touchplay.input shield message: hwnd=723044 msg=0x246 wparam=0x60170a7f
+2026-11-14 00:48:53,877 touchplay.input overlay down: id=2687 xy=1506.4,176.8
+2026-11-14 00:48:53,887 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x247 shield=723044
+2026-11-14 00:48:53,888 touchplay.input shield message: hwnd=723044 msg=0x247 wparam=0x60000a7f
+2026-11-14 00:48:53,888 touchplay.input shield message: hwnd=723044 msg=0x201 wparam=0x1
+2026-11-14 00:48:53,888 touchplay.input shield message: hwnd=723044 msg=0x202 wparam=0x0
+2026-11-14 00:48:54,149 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x246 shield=723044
+2026-11-14 00:48:54,149 touchplay.input shield message: hwnd=723044 msg=0x246 wparam=0x60170a80
+2026-11-14 00:48:54,149 touchplay.input overlay down: id=2688 xy=55.2,113.6
+2026-11-14 00:48:54,241 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x247 shield=723044
+2026-11-14 00:48:54,242 touchplay.input shield message: hwnd=723044 msg=0x247 wparam=0x60000a80
+2026-11-14 00:48:54,307 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x246 shield=723044
+2026-11-14 00:48:54,307 touchplay.input shield message: hwnd=723044 msg=0x246 wparam=0x60170a81
+2026-11-14 00:48:54,307 touchplay.input overlay down: id=2689 xy=92.8,140.8
+2026-11-14 00:48:54,375 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x247 shield=723044
+2026-11-14 00:48:54,376 touchplay.input shield message: hwnd=723044 msg=0x247 wparam=0x60000a81
+2026-11-14 00:48:54,419 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x246 shield=723044
+2026-11-14 00:48:54,420 touchplay.input shield message: hwnd=723044 msg=0x246 wparam=0x60170a82
+2026-11-14 00:48:54,420 touchplay.input overlay down: id=2690 xy=91.2,139.2
+2026-11-14 00:48:54,498 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x247 shield=723044
+2026-11-14 00:48:54,498 touchplay.input shield message: hwnd=723044 msg=0x247 wparam=0x60000a82
+2026-11-14 00:48:54,512 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x246 shield=723044
+2026-11-14 00:48:54,512 touchplay.input shield message: hwnd=723044 msg=0x246 wparam=0x60170a83
+2026-11-14 00:48:54,512 touchplay.input overlay down: id=2691 xy=79.2,129.6
+2026-11-14 00:48:54,596 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x247 shield=723044
+2026-11-14 00:48:54,596 touchplay.input shield message: hwnd=723044 msg=0x247 wparam=0x60000a83
+2026-11-14 00:48:55,463 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x246 shield=723044
+2026-11-14 00:48:55,463 touchplay.input shield message: hwnd=723044 msg=0x246 wparam=0x60170a84
+2026-11-14 00:48:55,463 touchplay.input overlay down: id=2692 xy=608.8,861.6
+2026-11-14 00:48:55,542 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x247 shield=723044
+2026-11-14 00:48:55,543 touchplay.input shield message: hwnd=723044 msg=0x247 wparam=0x60000a84
+2026-11-14 00:48:56,070 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x246 shield=723044
+2026-11-14 00:48:56,070 touchplay.input shield message: hwnd=723044 msg=0x246 wparam=0x60170a85
+2026-11-14 00:48:56,070 touchplay.input overlay down: id=2693 xy=632.8,847.2
+2026-11-14 00:48:56,103 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x247 shield=723044
+2026-11-14 00:48:56,103 touchplay.input shield message: hwnd=723044 msg=0x247 wparam=0x60000a85
+2026-11-14 00:48:56,519 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x246 shield=723044
+2026-11-14 00:48:56,519 touchplay.input shield message: hwnd=723044 msg=0x246 wparam=0x60170a86
+2026-11-14 00:48:56,519 touchplay.input overlay down: id=2694 xy=626.4,860.8
+2026-11-14 00:48:56,576 touchplay.input Qt native: type=b'windows_generic_MSG' target=723044 msg=0x247 shield=723044
+2026-11-14 00:48:56,576 touchplay.input shield message: hwnd=723044 msg=0x247 wparam=0x60000a86
+2026-11-14 00:48:57,979 touchplay.input shield shown: hwnd=2689122 rect=(0, 0, 1920, 1080)
+2026-11-14 00:48:59,538 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=1051,43 over_shield=True
+2026-11-14 00:48:59,541 touchplay.input shield message: hwnd=2689122 msg=0x201 wparam=0x1
+2026-11-14 00:48:59,541 touchplay.input overlay down: id=mouse xy=840.8,34.4
+2026-11-14 00:48:59,543 touchplay.input hit: kind=chrome action=hide control=None editing=False size=1536x864
+2026-11-14 00:48:59,611 touchplay.input shield message: hwnd=2689122 msg=0x202 wparam=0x0
+2026-11-14 00:48:59,611 touchplay.input overlay up: id=mouse xy=840.8,34.4 kind=chrome moved=False
+2026-11-14 00:49:12,925 touchplay.input shield shown: hwnd=2754658 rect=(0, 0, 1920, 1080)
+2026-11-14 00:49:12,987 touchplay.input shield message: hwnd=2754658 msg=0x202 wparam=0x0
+2026-11-14 00:49:14,354 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=1015,31 over_shield=True
+2026-11-14 00:49:14,356 touchplay.input shield message: hwnd=2754658 msg=0x201 wparam=0x1
+2026-11-14 00:49:14,356 touchplay.input overlay down: id=mouse xy=812.0,24.8
+2026-11-14 00:49:14,368 touchplay.input hit: kind=chrome action=hide control=None editing=False size=1536x864
+2026-11-14 00:49:14,411 touchplay.input shield message: hwnd=2754658 msg=0x202 wparam=0x0
+2026-11-14 00:49:14,411 touchplay.input overlay up: id=mouse xy=812.0,24.8 kind=chrome moved=False
+2026-11-14 00:49:31,260 touchplay.input shield shown: hwnd=2820194 rect=(0, 0, 1920, 1080)
+2026-11-14 00:49:31,308 touchplay.input shield message: hwnd=2820194 msg=0x202 wparam=0x0
+2026-11-14 00:49:32,305 touchplay.input Qt native: type=b'windows_generic_MSG' target=2820194 msg=0x246 shield=2820194
+2026-11-14 00:49:32,305 touchplay.input shield message: hwnd=2820194 msg=0x246 wparam=0x60170a87
+2026-11-14 00:49:32,306 touchplay.input overlay down: id=2695 xy=274.4,639.2
+2026-11-14 00:49:32,307 touchplay.input hit: kind=control action=None control=c14 editing=False size=1536x864
+2026-11-14 00:49:32,366 touchplay.input SendInput key: scan=0x11 flags=0x8 sent=1 foreground=None
+2026-11-14 00:49:32,413 touchplay.input SendInput key: scan=0x1e flags=0x8 sent=1 foreground=None
+2026-11-14 00:49:32,877 touchplay.input Qt native: type=b'windows_generic_MSG' target=2820194 msg=0x247 shield=2820194
+2026-11-14 00:49:32,877 touchplay.input shield message: hwnd=2820194 msg=0x247 wparam=0x60000a87
+2026-11-14 00:49:32,877 touchplay.input overlay up: id=2695 xy=87.2,319.2 kind=control moved=None
+2026-11-14 00:49:32,877 touchplay.input SendInput key: scan=0x1e flags=0xa sent=1 foreground=None
+2026-11-14 00:49:32,878 touchplay.input SendInput key: scan=0x11 flags=0xa sent=1 foreground=None
+2026-11-14 00:49:33,154 touchplay.input Qt native: type=b'windows_generic_MSG' target=2820194 msg=0x246 shield=2820194
+2026-11-14 00:49:33,154 touchplay.input shield message: hwnd=2820194 msg=0x246 wparam=0x60170a88
+2026-11-14 00:49:33,154 touchplay.input overlay down: id=2696 xy=250.4,136.8
+2026-11-14 00:49:33,164 touchplay.input hit: kind=dead action=None control=None editing=False size=1536x864
+2026-11-14 00:49:33,221 touchplay.input Qt native: type=b'windows_generic_MSG' target=2820194 msg=0x247 shield=2820194
+2026-11-14 00:49:33,221 touchplay.input shield message: hwnd=2820194 msg=0x247 wparam=0x60000a88
+2026-11-14 00:49:33,221 touchplay.input overlay up: id=2696 xy=250.4,136.8 kind=dead moved=None
+2026-11-14 00:49:35,026 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=994,21 over_shield=True
+2026-11-14 00:49:35,027 touchplay.input shield message: hwnd=2820194 msg=0x201 wparam=0x1
+2026-11-14 00:49:35,027 touchplay.input overlay down: id=mouse xy=795.2,16.8
+2026-11-14 00:49:35,028 touchplay.input hit: kind=chrome action=hide control=None editing=False size=1536x864
+2026-11-14 00:49:35,099 touchplay.input shield message: hwnd=2820194 msg=0x202 wparam=0x0
+2026-11-14 00:49:35,099 touchplay.input overlay up: id=mouse xy=795.2,16.8 kind=chrome moved=False
+2026-11-14 00:49:39,611 touchplay.input Qt native: type=b'windows_generic_MSG' target=4524010 msg=0x246 shield=2820194
+2026-11-14 00:49:39,611 touchplay.input Qt native: type=b'windows_generic_MSG' target=4524010 msg=0x246 shield=2820194
+2026-11-14 00:49:39,618 touchplay.input shield shown: hwnd=2885730 rect=(0, 0, 1920, 1080)
+2026-11-14 00:49:39,662 touchplay.input Qt native: type=b'windows_generic_MSG' target=4524010 msg=0x247 shield=2885730
+2026-11-14 00:49:39,662 touchplay.input Qt native: type=b'windows_generic_MSG' target=4524010 msg=0x247 shield=2885730
+2026-11-14 00:49:39,663 touchplay.input shield message: hwnd=2885730 msg=0x202 wparam=0x0
+2026-11-14 00:49:40,738 touchplay.input Qt native: type=b'windows_generic_MSG' target=2885730 msg=0x246 shield=2885730
+2026-11-14 00:49:40,738 touchplay.input shield message: hwnd=2885730 msg=0x246 wparam=0x60170a8e
+2026-11-14 00:49:40,738 touchplay.input overlay down: id=2702 xy=200.8,610.4
+2026-11-14 00:49:40,748 touchplay.input hit: kind=control action=None control=c14 editing=False size=1536x864
+2026-11-14 00:49:40,749 touchplay.input SendInput key: scan=0x1e flags=0x8 sent=1 foreground=None
+2026-11-14 00:49:40,749 touchplay.input SendInput key: scan=0x11 flags=0x8 sent=1 foreground=None
+2026-11-14 00:49:41,250 touchplay.input SendInput key: scan=0x11 flags=0xa sent=1 foreground=None
+2026-11-14 00:49:41,265 touchplay.input SendInput key: scan=0x1e flags=0xa sent=1 foreground=None
+2026-11-14 00:49:41,297 touchplay.input SendInput key: scan=0x1f flags=0x8 sent=1 foreground=None
+2026-11-14 00:49:41,297 touchplay.input SendInput key: scan=0x20 flags=0x8 sent=1 foreground=None
+2026-11-14 00:49:41,499 touchplay.input SendInput key: scan=0x1f flags=0xa sent=1 foreground=None
+2026-11-14 00:49:41,515 touchplay.input SendInput key: scan=0x20 flags=0xa sent=1 foreground=None
+2026-11-14 00:49:41,532 touchplay.input SendInput key: scan=0x11 flags=0x8 sent=1 foreground=None
+2026-11-14 00:49:41,532 touchplay.input SendInput key: scan=0x1e flags=0x8 sent=1 foreground=None
+2026-11-14 00:49:41,719 touchplay.input Qt native: type=b'windows_generic_MSG' target=2885730 msg=0x247 shield=2885730
+2026-11-14 00:49:41,719 touchplay.input shield message: hwnd=2885730 msg=0x247 wparam=0x60000a8e
+2026-11-14 00:49:41,719 touchplay.input overlay up: id=2702 xy=92.8,515.2 kind=control moved=None
+2026-11-14 00:49:41,720 touchplay.input SendInput key: scan=0x1e flags=0xa sent=1 foreground=None
+2026-11-14 00:49:41,720 touchplay.input SendInput key: scan=0x11 flags=0xa sent=1 foreground=None
+2026-11-14 00:49:42,995 touchplay.input Qt native: type=b'windows_generic_MSG' target=2885730 msg=0x246 shield=2885730
+2026-11-14 00:49:42,995 touchplay.input shield message: hwnd=2885730 msg=0x246 wparam=0x60170a8f
+2026-11-14 00:49:42,996 touchplay.input overlay down: id=2703 xy=281.6,650.4
+2026-11-14 00:49:42,998 touchplay.input hit: kind=control action=None control=c14 editing=False size=1536x864
+2026-11-14 00:49:42,998 touchplay.input SendInput key: scan=0x20 flags=0x8 sent=1 foreground=None
+2026-11-14 00:49:43,117 touchplay.input SendInput key: scan=0x11 flags=0x8 sent=1 foreground=None
+2026-11-14 00:49:44,150 touchplay.input SendInput key: scan=0x11 flags=0xa sent=1 foreground=None
+2026-11-14 00:49:44,215 touchplay.input SendInput key: scan=0x1f flags=0x8 sent=1 foreground=None
+2026-11-14 00:49:44,280 touchplay.input Qt native: type=b'windows_generic_MSG' target=2885730 msg=0x247 shield=2885730
+2026-11-14 00:49:44,281 touchplay.input shield message: hwnd=2885730 msg=0x247 wparam=0x60000a8f
+2026-11-14 00:49:44,281 touchplay.input overlay up: id=2703 xy=541.6,840.0 kind=control moved=None
+2026-11-14 00:49:44,281 touchplay.input SendInput key: scan=0x1f flags=0xa sent=1 foreground=None
+2026-11-14 00:49:44,281 touchplay.input SendInput key: scan=0x20 flags=0xa sent=1 foreground=None
+2026-11-14 00:49:44,471 touchplay.input Qt native: type=b'windows_generic_MSG' target=2885730 msg=0x246 shield=2885730
+2026-11-14 00:49:44,471 touchplay.input shield message: hwnd=2885730 msg=0x246 wparam=0x60170a90
+2026-11-14 00:49:44,471 touchplay.input overlay down: id=2704 xy=291.2,861.6
+2026-11-14 00:49:44,483 touchplay.input hit: kind=dead action=None control=None editing=False size=1536x864
+2026-11-14 00:49:44,675 touchplay.input Qt native: type=b'windows_generic_MSG' target=2885730 msg=0x247 shield=2885730
+2026-11-14 00:49:44,675 touchplay.input shield message: hwnd=2885730 msg=0x247 wparam=0x60000a90
+2026-11-14 00:49:44,676 touchplay.input overlay up: id=2704 xy=139.2,713.6 kind=dead moved=None
+2026-11-14 00:49:45,376 touchplay.input Qt native: type=b'windows_generic_MSG' target=2885730 msg=0x246 shield=2885730
+2026-11-14 00:49:45,376 touchplay.input shield message: hwnd=2885730 msg=0x246 wparam=0x60170a91
+2026-11-14 00:49:45,376 touchplay.input overlay down: id=2705 xy=823.2,25.6
+2026-11-14 00:49:45,386 touchplay.input hit: kind=chrome action=hide control=None editing=False size=1536x864
+2026-11-14 00:49:45,426 touchplay.input Qt native: type=b'windows_generic_MSG' target=2885730 msg=0x247 shield=2885730
+2026-11-14 00:49:45,426 touchplay.input shield message: hwnd=2885730 msg=0x247 wparam=0x60000a91
+2026-11-14 00:49:45,426 touchplay.input overlay up: id=2705 xy=823.2,25.6 kind=chrome moved=False
+2026-11-14 00:49:46,375 touchplay.input Qt native: type=b'windows_generic_MSG' target=4524010 msg=0x246 shield=2885730
+2026-11-14 00:49:46,375 touchplay.input Qt native: type=b'windows_generic_MSG' target=4524010 msg=0x246 shield=2885730
+2026-11-14 00:49:46,381 touchplay.input shield shown: hwnd=2951266 rect=(0, 0, 1920, 1080)
+2026-11-14 00:49:46,416 touchplay.input Qt native: type=b'windows_generic_MSG' target=4524010 msg=0x247 shield=2951266
+2026-11-14 00:49:46,416 touchplay.input Qt native: type=b'windows_generic_MSG' target=4524010 msg=0x247 shield=2951266
+2026-11-14 00:49:46,417 touchplay.input shield message: hwnd=2951266 msg=0x202 wparam=0x0
+2026-11-14 00:49:47,736 touchplay.input Qt native: type=b'windows_generic_MSG' target=2951266 msg=0x246 shield=2951266
+2026-11-14 00:49:47,736 touchplay.input shield message: hwnd=2951266 msg=0x246 wparam=0x60170a94
+2026-11-14 00:49:47,737 touchplay.input overlay down: id=2708 xy=770.4,261.6
+2026-11-14 00:49:47,747 touchplay.input hit: kind=control action=None control=c15 editing=False size=1536x864
+2026-11-14 00:49:48,082 touchplay.input Qt native: type=b'windows_generic_MSG' target=2951266 msg=0x247 shield=2951266
+2026-11-14 00:49:48,083 touchplay.input shield message: hwnd=2951266 msg=0x247 wparam=0x60000a94
+2026-11-14 00:49:48,083 touchplay.input overlay up: id=2708 xy=845.6,245.6 kind=control moved=None
+2026-11-14 00:49:48,734 touchplay.input Qt native: type=b'windows_generic_MSG' target=2951266 msg=0x246 shield=2951266
+2026-11-14 00:49:48,734 touchplay.input shield message: hwnd=2951266 msg=0x246 wparam=0x60170a95
+2026-11-14 00:49:48,734 touchplay.input overlay down: id=2709 xy=823.2,16.0
+2026-11-14 00:49:48,737 touchplay.input hit: kind=chrome action=hide control=None editing=False size=1536x864
+2026-11-14 00:49:48,801 touchplay.input Qt native: type=b'windows_generic_MSG' target=2951266 msg=0x247 shield=2951266
+2026-11-14 00:49:48,801 touchplay.input shield message: hwnd=2951266 msg=0x247 wparam=0x60000a95
+2026-11-14 00:49:48,801 touchplay.input overlay up: id=2709 xy=823.2,16.0 kind=chrome moved=False
+2026-11-14 00:49:50,080 touchplay.input Qt native: type=b'windows_generic_MSG' target=4524010 msg=0x246 shield=2951266
+2026-11-14 00:49:50,080 touchplay.input Qt native: type=b'windows_generic_MSG' target=4524010 msg=0x246 shield=2951266
+2026-11-14 00:49:50,090 touchplay.input shield shown: hwnd=3016802 rect=(0, 0, 1920, 1080)
+2026-11-14 00:49:50,126 touchplay.input Qt native: type=b'windows_generic_MSG' target=4524010 msg=0x247 shield=3016802
+2026-11-14 00:49:50,126 touchplay.input Qt native: type=b'windows_generic_MSG' target=4524010 msg=0x247 shield=3016802
+2026-11-14 00:49:50,127 touchplay.input shield message: hwnd=3016802 msg=0x202 wparam=0x0
+2026-11-14 00:49:50,899 touchplay.input Qt native: type=b'windows_generic_MSG' target=3016802 msg=0x246 shield=3016802
+2026-11-14 00:49:50,899 touchplay.input shield message: hwnd=3016802 msg=0x246 wparam=0x60170a99
+2026-11-14 00:49:50,899 touchplay.input overlay down: id=2713 xy=516.0,149.6
+2026-11-14 00:49:50,900 touchplay.input hit: kind=dead action=None control=None editing=False size=1536x864
+2026-11-14 00:49:50,975 touchplay.input Qt native: type=b'windows_generic_MSG' target=3016802 msg=0x247 shield=3016802
+2026-11-14 00:49:50,975 touchplay.input shield message: hwnd=3016802 msg=0x247 wparam=0x60000a99
+2026-11-14 00:49:50,975 touchplay.input overlay up: id=2713 xy=516.0,149.6 kind=dead moved=None
+2026-11-14 00:49:52,651 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=1043,23 over_shield=True
+2026-11-14 00:49:52,653 touchplay.input shield message: hwnd=3016802 msg=0x201 wparam=0x1
+2026-11-14 00:49:52,654 touchplay.input overlay down: id=mouse xy=834.4,18.4
+2026-11-14 00:49:52,665 touchplay.input hit: kind=chrome action=hide control=None editing=False size=1536x864
+2026-11-14 00:49:52,715 touchplay.input shield message: hwnd=3016802 msg=0x202 wparam=0x0
+2026-11-14 00:49:52,715 touchplay.input overlay up: id=mouse xy=834.4,18.4 kind=chrome moved=False
+2026-11-14 00:50:23,528 touchplay.input shield shown: hwnd=3082338 rect=(0, 0, 1920, 1080)
+2026-11-14 00:50:23,588 touchplay.input shield message: hwnd=3082338 msg=0x202 wparam=0x0
+2026-11-14 00:50:24,795 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=1011,41 over_shield=True
+2026-11-14 00:50:24,797 touchplay.input shield message: hwnd=3082338 msg=0x201 wparam=0x1
+2026-11-14 00:50:24,797 touchplay.input overlay down: id=mouse xy=808.8,32.8
+2026-11-14 00:50:24,808 touchplay.input hit: kind=chrome action=hide control=None editing=False size=1536x864
+2026-11-14 00:50:24,868 touchplay.input shield message: hwnd=3082338 msg=0x202 wparam=0x0
+2026-11-14 00:50:24,868 touchplay.input overlay up: id=mouse xy=808.8,32.8 kind=chrome moved=False
+2026-11-14 00:50:26,550 touchplay.input shield shown: hwnd=526474 rect=(0, 0, 1920, 1080)
+2026-11-14 00:50:28,843 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=1261,1047 over_shield=True
+2026-11-14 00:50:28,846 touchplay.input shield message: hwnd=526474 msg=0x201 wparam=0x1
+2026-11-14 00:50:28,846 touchplay.input overlay down: id=mouse xy=1008.8,837.6
+2026-11-14 00:50:28,859 touchplay.input hit: kind=dead action=None control=None editing=False size=1536x864
+2026-11-14 00:50:28,932 touchplay.input shield message: hwnd=526474 msg=0x202 wparam=0x0
+2026-11-14 00:50:28,932 touchplay.input overlay up: id=mouse xy=1008.8,837.6 kind=dead moved=None
+2026-11-14 00:50:30,588 touchplay.input Qt native: type=b'windows_generic_MSG' target=526474 msg=0x246 shield=526474
+2026-11-14 00:50:30,588 touchplay.input shield message: hwnd=526474 msg=0x246 wparam=0x60170a9a
+2026-11-14 00:50:30,588 touchplay.input overlay down: id=2714 xy=1046.4,831.2
+2026-11-14 00:50:30,599 touchplay.input hit: kind=dead action=None control=None editing=False size=1536x864
+2026-11-14 00:50:30,666 touchplay.input Qt native: type=b'windows_generic_MSG' target=526474 msg=0x247 shield=526474
+2026-11-14 00:50:30,666 touchplay.input shield message: hwnd=526474 msg=0x247 wparam=0x60000a9a
+2026-11-14 00:50:30,666 touchplay.input overlay up: id=2714 xy=1046.4,831.2 kind=dead moved=None
+2026-11-14 00:50:32,992 touchplay.input Qt native: type=b'windows_generic_MSG' target=526474 msg=0x246 shield=526474
+2026-11-14 00:50:32,992 touchplay.input shield message: hwnd=526474 msg=0x246 wparam=0x60170a9b
+2026-11-14 00:50:32,992 touchplay.input overlay down: id=2715 xy=824.8,25.6
+2026-11-14 00:50:33,003 touchplay.input hit: kind=chrome action=hide control=None editing=False size=1536x864
+2026-11-14 00:50:33,042 touchplay.input Qt native: type=b'windows_generic_MSG' target=526474 msg=0x247 shield=526474
+2026-11-14 00:50:33,042 touchplay.input shield message: hwnd=526474 msg=0x247 wparam=0x60000a9b
+2026-11-14 00:50:33,042 touchplay.input overlay up: id=2715 xy=824.8,25.6 kind=chrome moved=False
+2026-11-14 00:51:02,757 touchplay.input Qt native: type=b'windows_generic_MSG' target=592094 msg=0x246 shield=526474
+2026-11-14 00:51:02,757 touchplay.input Qt native: type=b'windows_generic_MSG' target=592094 msg=0x246 shield=526474
+2026-11-14 00:51:02,771 touchplay.input shield shown: hwnd=592010 rect=(0, 0, 1920, 1080)
+2026-11-14 00:51:02,823 touchplay.input Qt native: type=b'windows_generic_MSG' target=592094 msg=0x247 shield=592010
+2026-11-14 00:51:02,823 touchplay.input Qt native: type=b'windows_generic_MSG' target=592094 msg=0x247 shield=592010
+2026-11-14 00:51:02,824 touchplay.input shield message: hwnd=592010 msg=0x202 wparam=0x0
+2026-11-14 00:51:03,127 touchplay.input Qt native: type=b'windows_generic_MSG' target=592010 msg=0x246 shield=592010
+2026-11-14 00:51:03,127 touchplay.input shield message: hwnd=592010 msg=0x246 wparam=0x60170a9e
+2026-11-14 00:51:03,128 touchplay.input overlay down: id=2718 xy=209.6,618.4
+2026-11-14 00:51:03,139 touchplay.input hit: kind=control action=None control=c14 editing=False size=1536x864
+2026-11-14 00:51:03,203 touchplay.input restore game focus: previous=0 game=6096980 restored=1 current=None
+2026-11-14 00:51:03,205 touchplay.input SendInput key: scan=0x11 flags=0x8 sent=1 foreground=6096980
+2026-11-14 00:51:03,205 touchplay.input SendInput key: scan=0x1e flags=0x8 sent=1 foreground=6096980
+2026-11-14 00:51:03,346 touchplay.input SendInput key: scan=0x11 flags=0xa sent=1 foreground=6096980
+2026-11-14 00:51:03,384 touchplay.input SendInput key: scan=0x1f flags=0x8 sent=1 foreground=6096980
+2026-11-14 00:51:03,481 touchplay.input SendInput key: scan=0x1e flags=0xa sent=1 foreground=6096980
+2026-11-14 00:51:03,513 touchplay.input SendInput key: scan=0x1f flags=0xa sent=1 foreground=6096980
+2026-11-14 00:51:03,586 touchplay.input SendInput key: scan=0x11 flags=0x8 sent=1 foreground=6096980
+2026-11-14 00:51:03,696 touchplay.input SendInput key: scan=0x1e flags=0x8 sent=1 foreground=6096980
+2026-11-14 00:51:03,961 touchplay.input SendInput key: scan=0x11 flags=0xa sent=1 foreground=6096980
+2026-11-14 00:51:03,976 touchplay.input SendInput key: scan=0x1e flags=0xa sent=1 foreground=6096980
+2026-11-14 00:51:04,032 touchplay.input SendInput key: scan=0x1f flags=0x8 sent=1 foreground=6096980
+2026-11-14 00:51:04,125 touchplay.input SendInput key: scan=0x20 flags=0x8 sent=1 foreground=6096980
+2026-11-14 00:51:04,125 touchplay.input Qt native: type=b'windows_generic_MSG' target=592010 msg=0x247 shield=592010
+2026-11-14 00:51:04,125 touchplay.input shield message: hwnd=592010 msg=0x247 wparam=0x60000a9e
+2026-11-14 00:51:04,125 touchplay.input overlay up: id=2718 xy=280.0,722.4 kind=control moved=None
+2026-11-14 00:51:04,125 touchplay.input SendInput key: scan=0x1f flags=0xa sent=1 foreground=6096980
+2026-11-14 00:51:04,126 touchplay.input SendInput key: scan=0x20 flags=0xa sent=1 foreground=6096980
+2026-11-14 00:51:04,369 touchplay.input Qt native: type=b'windows_generic_MSG' target=592010 msg=0x246 shield=592010
+2026-11-14 00:51:04,369 touchplay.input shield message: hwnd=592010 msg=0x246 wparam=0x60170a9f
+2026-11-14 00:51:04,370 touchplay.input overlay down: id=2719 xy=1028.8,857.6
+2026-11-14 00:51:04,380 touchplay.input hit: kind=dead action=None control=None editing=False size=1536x864
+2026-11-14 00:51:04,417 touchplay.input Qt native: type=b'windows_generic_MSG' target=592010 msg=0x247 shield=592010
+2026-11-14 00:51:04,417 touchplay.input shield message: hwnd=592010 msg=0x247 wparam=0x60000a9f
+2026-11-14 00:51:04,418 touchplay.input overlay up: id=2719 xy=1028.8,857.6 kind=dead moved=None
+2026-11-14 00:51:04,676 touchplay.input Qt native: type=b'windows_generic_MSG' target=592010 msg=0x246 shield=592010
+2026-11-14 00:51:04,676 touchplay.input shield message: hwnd=592010 msg=0x246 wparam=0x60170aa0
+2026-11-14 00:51:04,677 touchplay.input overlay down: id=2720 xy=231.2,618.4
+2026-11-14 00:51:04,687 touchplay.input hit: kind=control action=None control=c14 editing=False size=1536x864
+2026-11-14 00:51:04,781 touchplay.input restore game focus: previous=0 game=6096980 restored=1 current=None
+2026-11-14 00:51:04,781 touchplay.input SendInput key: scan=0x1e flags=0x8 sent=1 foreground=6096980
+2026-11-14 00:51:04,896 touchplay.input SendInput key: scan=0x1f flags=0x8 sent=1 foreground=6096980
+2026-11-14 00:51:04,933 touchplay.input SendInput key: scan=0x1e flags=0xa sent=1 foreground=6096980
+2026-11-14 00:51:04,989 touchplay.input SendInput key: scan=0x20 flags=0x8 sent=1 foreground=6096980
+2026-11-14 00:51:05,067 touchplay.input SendInput key: scan=0x1f flags=0xa sent=1 foreground=6096980
+2026-11-14 00:51:05,082 touchplay.input SendInput key: scan=0x11 flags=0x8 sent=1 foreground=6096980
+2026-11-14 00:51:05,099 touchplay.input SendInput key: scan=0x20 flags=0xa sent=1 foreground=6096980
+2026-11-14 00:51:05,129 touchplay.input SendInput key: scan=0x1e flags=0x8 sent=1 foreground=6096980
+2026-11-14 00:51:05,345 touchplay.input SendInput key: scan=0x11 flags=0xa sent=1 foreground=6096980
+2026-11-14 00:51:05,345 touchplay.input SendInput key: scan=0x1e flags=0xa sent=1 foreground=6096980
+2026-11-14 00:51:05,373 touchplay.input SendInput key: scan=0x1f flags=0x8 sent=1 foreground=6096980
+2026-11-14 00:51:05,407 touchplay.input SendInput key: scan=0x20 flags=0x8 sent=1 foreground=6096980
+2026-11-14 00:51:05,407 touchplay.input Qt native: type=b'windows_generic_MSG' target=592010 msg=0x247 shield=592010
+2026-11-14 00:51:05,407 touchplay.input shield message: hwnd=592010 msg=0x247 wparam=0x60000aa0
+2026-11-14 00:51:05,408 touchplay.input overlay up: id=2720 xy=280.0,715.2 kind=control moved=None
+2026-11-14 00:51:05,408 touchplay.input SendInput key: scan=0x1f flags=0xa sent=1 foreground=6096980
+2026-11-14 00:51:05,408 touchplay.input SendInput key: scan=0x20 flags=0xa sent=1 foreground=6096980
+2026-11-14 00:51:07,147 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=1273,1079 over_shield=True
+2026-11-14 00:51:07,149 touchplay.input shield message: hwnd=592010 msg=0x201 wparam=0x1
+2026-11-14 00:51:07,150 touchplay.input overlay down: id=mouse xy=1018.4,863.2
+2026-11-14 00:51:07,161 touchplay.input hit: kind=dead action=None control=None editing=False size=1536x864
+2026-11-14 00:51:07,246 touchplay.input shield message: hwnd=592010 msg=0x202 wparam=0x0
+2026-11-14 00:51:07,246 touchplay.input overlay up: id=mouse xy=1020.8,857.6 kind=dead moved=None
+2026-11-14 00:51:09,303 touchplay.input Qt native: type=b'windows_generic_MSG' target=592010 msg=0x246 shield=592010
+2026-11-14 00:51:09,303 touchplay.input shield message: hwnd=592010 msg=0x246 wparam=0x60170aa1
+2026-11-14 00:51:09,303 touchplay.input overlay down: id=2721 xy=60.0,144.0
+2026-11-14 00:51:09,313 touchplay.input hit: kind=control action=None control=c1 editing=False size=1536x864
+2026-11-14 00:51:09,314 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:51:09,314 touchplay.input SendInput key: scan=0x1 flags=0x8 sent=1 foreground=None
+2026-11-14 00:51:09,371 touchplay.input Qt native: type=b'windows_generic_MSG' target=592010 msg=0x247 shield=592010
+2026-11-14 00:51:09,371 touchplay.input shield message: hwnd=592010 msg=0x247 wparam=0x60000aa1
+2026-11-14 00:51:09,371 touchplay.input overlay up: id=2721 xy=60.0,144.0 kind=control moved=None
+2026-11-14 00:51:09,372 touchplay.input SendInput key: scan=0x1 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:09,928 touchplay.input Qt native: type=b'windows_generic_MSG' target=592010 msg=0x246 shield=592010
+2026-11-14 00:51:09,928 touchplay.input shield message: hwnd=592010 msg=0x246 wparam=0x60170aa2
+2026-11-14 00:51:09,928 touchplay.input overlay down: id=2722 xy=199.2,598.4
+2026-11-14 00:51:09,939 touchplay.input hit: kind=control action=None control=c14 editing=False size=1536x864
+2026-11-14 00:51:09,940 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:51:09,940 touchplay.input SendInput key: scan=0x11 flags=0x8 sent=1 foreground=None
+2026-11-14 00:51:09,941 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:51:09,941 touchplay.input SendInput key: scan=0x1e flags=0x8 sent=1 foreground=None
+2026-11-14 00:51:10,461 touchplay.input Qt native: type=b'windows_generic_MSG' target=592010 msg=0x247 shield=592010
+2026-11-14 00:51:10,461 touchplay.input shield message: hwnd=592010 msg=0x247 wparam=0x60000aa2
+2026-11-14 00:51:10,461 touchplay.input overlay up: id=2722 xy=128.8,453.6 kind=control moved=None
+2026-11-14 00:51:10,461 touchplay.input SendInput key: scan=0x11 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:10,461 touchplay.input SendInput key: scan=0x1e flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:10,759 touchplay.input Qt native: type=b'windows_generic_MSG' target=592010 msg=0x246 shield=592010
+2026-11-14 00:51:10,759 touchplay.input shield message: hwnd=592010 msg=0x246 wparam=0x60170aa3
+2026-11-14 00:51:10,760 touchplay.input overlay down: id=2723 xy=89.6,113.6
+2026-11-14 00:51:10,771 touchplay.input hit: kind=control action=None control=c1 editing=False size=1536x864
+2026-11-14 00:51:10,771 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:51:10,772 touchplay.input SendInput key: scan=0x1 flags=0x8 sent=1 foreground=None
+2026-11-14 00:51:10,842 touchplay.input Qt native: type=b'windows_generic_MSG' target=592010 msg=0x247 shield=592010
+2026-11-14 00:51:10,842 touchplay.input shield message: hwnd=592010 msg=0x247 wparam=0x60000aa3
+2026-11-14 00:51:10,842 touchplay.input overlay up: id=2723 xy=89.6,113.6 kind=control moved=None
+2026-11-14 00:51:10,842 touchplay.input SendInput key: scan=0x1 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:11,150 touchplay.input Qt native: type=b'windows_generic_MSG' target=592010 msg=0x246 shield=592010
+2026-11-14 00:51:11,150 touchplay.input shield message: hwnd=592010 msg=0x246 wparam=0x60170aa4
+2026-11-14 00:51:11,150 touchplay.input overlay down: id=2724 xy=228.0,666.4
+2026-11-14 00:51:11,160 touchplay.input hit: kind=control action=None control=c14 editing=False size=1536x864
+2026-11-14 00:51:11,205 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:51:11,205 touchplay.input SendInput key: scan=0x1e flags=0x8 sent=1 foreground=None
+2026-11-14 00:51:11,205 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:51:11,206 touchplay.input SendInput key: scan=0x11 flags=0x8 sent=1 foreground=None
+2026-11-14 00:51:11,658 touchplay.input SendInput key: scan=0x11 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:11,659 touchplay.input SendInput key: scan=0x1e flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:11,673 touchplay.input SendInput key: scan=0x1f flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:11,689 touchplay.input SendInput key: scan=0x20 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:11,953 touchplay.input Qt native: type=b'windows_generic_MSG' target=592010 msg=0x247 shield=592010
+2026-11-14 00:51:11,953 touchplay.input shield message: hwnd=592010 msg=0x247 wparam=0x60000aa4
+2026-11-14 00:51:11,953 touchplay.input overlay up: id=2724 xy=368.8,796.8 kind=control moved=None
+2026-11-14 00:51:11,954 touchplay.input SendInput key: scan=0x1f flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:11,954 touchplay.input SendInput key: scan=0x20 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:12,056 touchplay.input Qt native: type=b'windows_generic_MSG' target=592010 msg=0x246 shield=592010
+2026-11-14 00:51:12,056 touchplay.input shield message: hwnd=592010 msg=0x246 wparam=0x60170aa5
+2026-11-14 00:51:12,057 touchplay.input overlay down: id=2725 xy=67.2,144.8
+2026-11-14 00:51:12,067 touchplay.input hit: kind=control action=None control=c1 editing=False size=1536x864
+2026-11-14 00:51:12,067 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:51:12,068 touchplay.input SendInput key: scan=0x1 flags=0x8 sent=1 foreground=None
+2026-11-14 00:51:12,130 touchplay.input Qt native: type=b'windows_generic_MSG' target=592010 msg=0x247 shield=592010
+2026-11-14 00:51:12,130 touchplay.input shield message: hwnd=592010 msg=0x247 wparam=0x60000aa5
+2026-11-14 00:51:12,130 touchplay.input overlay up: id=2725 xy=67.2,144.8 kind=control moved=None
+2026-11-14 00:51:12,131 touchplay.input SendInput key: scan=0x1 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:12,383 touchplay.input Qt native: type=b'windows_generic_MSG' target=592010 msg=0x246 shield=592010
+2026-11-14 00:51:12,383 touchplay.input shield message: hwnd=592010 msg=0x246 wparam=0x60170aa6
+2026-11-14 00:51:12,383 touchplay.input overlay down: id=2726 xy=236.8,683.2
+2026-11-14 00:51:12,393 touchplay.input hit: kind=control action=None control=c14 editing=False size=1536x864
+2026-11-14 00:51:12,436 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:51:12,437 touchplay.input SendInput key: scan=0x1e flags=0x8 sent=1 foreground=None
+2026-11-14 00:51:12,453 touchplay.input SendInput key: scan=0x11 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:12,719 touchplay.input Qt native: type=b'windows_generic_MSG' target=592010 msg=0x247 shield=592010
+2026-11-14 00:51:12,720 touchplay.input shield message: hwnd=592010 msg=0x247 wparam=0x60000aa6
+2026-11-14 00:51:12,720 touchplay.input overlay up: id=2726 xy=79.2,472.0 kind=control moved=None
+2026-11-14 00:51:12,720 touchplay.input SendInput key: scan=0x11 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:12,721 touchplay.input SendInput key: scan=0x1e flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:12,897 touchplay.input Qt native: type=b'windows_generic_MSG' target=592010 msg=0x246 shield=592010
+2026-11-14 00:51:12,898 touchplay.input shield message: hwnd=592010 msg=0x246 wparam=0x60170aa7
+2026-11-14 00:51:12,898 touchplay.input overlay down: id=2727 xy=104.8,166.4
+2026-11-14 00:51:12,910 touchplay.input hit: kind=control action=None control=c1 editing=False size=1536x864
+2026-11-14 00:51:12,910 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:51:12,911 touchplay.input SendInput key: scan=0x1 flags=0x8 sent=1 foreground=None
+2026-11-14 00:51:12,972 touchplay.input Qt native: type=b'windows_generic_MSG' target=592010 msg=0x247 shield=592010
+2026-11-14 00:51:12,972 touchplay.input shield message: hwnd=592010 msg=0x247 wparam=0x60000aa7
+2026-11-14 00:51:12,972 touchplay.input overlay up: id=2727 xy=104.8,165.6 kind=control moved=None
+2026-11-14 00:51:12,972 touchplay.input SendInput key: scan=0x1 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:13,288 touchplay.input Qt native: type=b'windows_generic_MSG' target=592010 msg=0x246 shield=592010
+2026-11-14 00:51:13,288 touchplay.input shield message: hwnd=592010 msg=0x246 wparam=0x60170aa8
+2026-11-14 00:51:13,289 touchplay.input overlay down: id=2728 xy=264.0,726.4
+2026-11-14 00:51:13,291 touchplay.input hit: kind=control action=None control=c14 editing=False size=1536x864
+2026-11-14 00:51:13,291 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=2819452
+2026-11-14 00:51:13,292 touchplay.input SendInput key: scan=0x1f flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:13,381 touchplay.input SendInput key: scan=0x1f flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:13,381 touchplay.input SendInput key: scan=0x20 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:13,413 touchplay.input SendInput key: scan=0x11 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:13,507 touchplay.input SendInput key: scan=0x20 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:13,523 touchplay.input SendInput key: scan=0x1e flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:13,702 touchplay.input SendInput key: scan=0x11 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:13,703 touchplay.input SendInput key: scan=0x1e flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:13,719 touchplay.input SendInput key: scan=0x1f flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:13,813 touchplay.input SendInput key: scan=0x20 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:13,905 touchplay.input SendInput key: scan=0x1f flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:13,920 touchplay.input SendInput key: scan=0x20 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:13,921 touchplay.input SendInput key: scan=0x11 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:13,971 touchplay.input SendInput key: scan=0x1e flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:14,192 touchplay.input Qt native: type=b'windows_generic_MSG' target=592010 msg=0x247 shield=592010
+2026-11-14 00:51:14,192 touchplay.input shield message: hwnd=592010 msg=0x247 wparam=0x60000aa8
+2026-11-14 00:51:14,192 touchplay.input overlay up: id=2728 xy=125.6,468.8 kind=control moved=None
+2026-11-14 00:51:14,192 touchplay.input SendInput key: scan=0x11 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:14,193 touchplay.input SendInput key: scan=0x1e flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:14,334 touchplay.input Qt native: type=b'windows_generic_MSG' target=592010 msg=0x246 shield=592010
+2026-11-14 00:51:14,334 touchplay.input shield message: hwnd=592010 msg=0x246 wparam=0x60170aa9
+2026-11-14 00:51:14,335 touchplay.input overlay down: id=2729 xy=248.8,708.0
+2026-11-14 00:51:14,345 touchplay.input hit: kind=control action=None control=c14 editing=False size=1536x864
+2026-11-14 00:51:14,346 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:51:14,346 touchplay.input SendInput key: scan=0x1f flags=0x8 sent=1 foreground=None
+2026-11-14 00:51:14,394 touchplay.input SendInput key: scan=0x1f flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:14,420 touchplay.input SendInput key: scan=0x11 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:14,435 touchplay.input SendInput key: scan=0x1e flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:14,482 touchplay.input Qt native: type=b'windows_generic_MSG' target=592010 msg=0x247 shield=592010
+2026-11-14 00:51:14,483 touchplay.input shield message: hwnd=592010 msg=0x247 wparam=0x60000aa9
+2026-11-14 00:51:14,483 touchplay.input overlay up: id=2729 xy=173.6,517.6 kind=control moved=None
+2026-11-14 00:51:14,483 touchplay.input SendInput key: scan=0x11 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:14,484 touchplay.input SendInput key: scan=0x1e flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:14,578 touchplay.input Qt native: type=b'windows_generic_MSG' target=592010 msg=0x246 shield=592010
+2026-11-14 00:51:14,578 touchplay.input shield message: hwnd=592010 msg=0x246 wparam=0x60170aaa
+2026-11-14 00:51:14,578 touchplay.input overlay down: id=2730 xy=214.4,696.8
+2026-11-14 00:51:14,580 touchplay.input hit: kind=control action=None control=c14 editing=False size=1536x864
+2026-11-14 00:51:14,581 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=2819452
+2026-11-14 00:51:14,582 touchplay.input SendInput key: scan=0x1f flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:14,653 touchplay.input SendInput key: scan=0x1f flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:14,668 touchplay.input SendInput key: scan=0x1e flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:14,685 touchplay.input SendInput key: scan=0x11 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:14,718 touchplay.input Qt native: type=b'windows_generic_MSG' target=592010 msg=0x246 shield=592010
+2026-11-14 00:51:14,718 touchplay.input shield message: hwnd=592010 msg=0x246 wparam=0x40170aab
+2026-11-14 00:51:14,718 touchplay.input overlay down: id=2731 xy=1060.0,600.0
+2026-11-14 00:51:14,720 touchplay.input hit: kind=control action=None control=c15 editing=False size=1536x864
+2026-11-14 00:51:14,904 touchplay.input Qt native: type=b'windows_generic_MSG' target=592010 msg=0x247 shield=592010
+2026-11-14 00:51:14,904 touchplay.input shield message: hwnd=592010 msg=0x247 wparam=0x40000aab
+2026-11-14 00:51:14,904 touchplay.input overlay up: id=2731 xy=1244.0,561.6 kind=control moved=None
+2026-11-14 00:51:14,939 touchplay.input Qt native: type=b'windows_generic_MSG' target=592010 msg=0x247 shield=592010
+2026-11-14 00:51:14,939 touchplay.input shield message: hwnd=592010 msg=0x247 wparam=0x60000aaa
+2026-11-14 00:51:14,939 touchplay.input overlay up: id=2730 xy=156.0,502.4 kind=control moved=None
+2026-11-14 00:51:14,939 touchplay.input SendInput key: scan=0x11 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:14,940 touchplay.input SendInput key: scan=0x1e flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:15,074 touchplay.input Qt native: type=b'windows_generic_MSG' target=592010 msg=0x246 shield=592010
+2026-11-14 00:51:15,074 touchplay.input shield message: hwnd=592010 msg=0x246 wparam=0x60170aac
+2026-11-14 00:51:15,074 touchplay.input overlay down: id=2732 xy=257.6,688.8
+2026-11-14 00:51:15,086 touchplay.input hit: kind=control action=None control=c14 editing=False size=1536x864
+2026-11-14 00:51:15,087 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:51:15,088 touchplay.input SendInput key: scan=0x1f flags=0x8 sent=1 foreground=None
+2026-11-14 00:51:15,132 touchplay.input Qt native: type=b'windows_generic_MSG' target=592010 msg=0x247 shield=592010
+2026-11-14 00:51:15,132 touchplay.input shield message: hwnd=592010 msg=0x247 wparam=0x60000aac
+2026-11-14 00:51:15,132 touchplay.input overlay up: id=2732 xy=257.6,688.8 kind=control moved=None
+2026-11-14 00:51:15,133 touchplay.input SendInput key: scan=0x1f flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:18,084 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=1055,24 over_shield=True
+2026-11-14 00:51:18,085 touchplay.input shield message: hwnd=592010 msg=0x201 wparam=0x1
+2026-11-14 00:51:18,085 touchplay.input overlay down: id=mouse xy=844.0,19.2
+2026-11-14 00:51:18,096 touchplay.input hit: kind=chrome action=hide control=None editing=False size=1536x864
+2026-11-14 00:51:18,155 touchplay.input shield message: hwnd=592010 msg=0x202 wparam=0x0
+2026-11-14 00:51:18,156 touchplay.input overlay up: id=mouse xy=844.0,19.2 kind=chrome moved=False
+2026-11-14 00:51:42,633 touchplay.input Qt native: type=b'windows_generic_MSG' target=592094 msg=0x246 shield=592010
+2026-11-14 00:51:42,633 touchplay.input Qt native: type=b'windows_generic_MSG' target=592094 msg=0x246 shield=592010
+2026-11-14 00:51:42,641 touchplay.input shield shown: hwnd=657546 rect=(0, 0, 1920, 1080)
+2026-11-14 00:51:42,685 touchplay.input Qt native: type=b'windows_generic_MSG' target=592094 msg=0x247 shield=657546
+2026-11-14 00:51:42,685 touchplay.input Qt native: type=b'windows_generic_MSG' target=592094 msg=0x247 shield=657546
+2026-11-14 00:51:42,686 touchplay.input shield message: hwnd=657546 msg=0x202 wparam=0x0
+2026-11-14 00:51:43,284 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x246 shield=657546
+2026-11-14 00:51:43,284 touchplay.input shield message: hwnd=657546 msg=0x246 wparam=0x60170ab1
+2026-11-14 00:51:43,284 touchplay.input overlay down: id=2737 xy=238.4,630.4
+2026-11-14 00:51:43,287 touchplay.input hit: kind=control action=None control=c14 editing=False size=1536x864
+2026-11-14 00:51:43,345 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:51:43,345 touchplay.input SendInput key: scan=0x11 flags=0x8 sent=1 foreground=None
+2026-11-14 00:51:43,379 touchplay.input SendInput key: scan=0x1e flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:43,713 touchplay.input SendInput key: scan=0x1e flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:43,714 touchplay.input SendInput key: scan=0x11 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:43,770 touchplay.input SendInput key: scan=0x1f flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:43,813 touchplay.input SendInput key: scan=0x20 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:43,899 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x247 shield=657546
+2026-11-14 00:51:43,899 touchplay.input shield message: hwnd=657546 msg=0x247 wparam=0x60000ab1
+2026-11-14 00:51:43,899 touchplay.input overlay up: id=2737 xy=305.6,756.0 kind=control moved=None
+2026-11-14 00:51:43,899 touchplay.input SendInput key: scan=0x1f flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:43,900 touchplay.input SendInput key: scan=0x20 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:44,676 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x246 shield=657546
+2026-11-14 00:51:44,676 touchplay.input shield message: hwnd=657546 msg=0x246 wparam=0x60170ab2
+2026-11-14 00:51:44,676 touchplay.input overlay down: id=2738 xy=264.0,659.2
+2026-11-14 00:51:44,679 touchplay.input hit: kind=control action=None control=c14 editing=False size=1536x864
+2026-11-14 00:51:44,768 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:51:44,769 touchplay.input SendInput key: scan=0x11 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:45,096 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x246 shield=657546
+2026-11-14 00:51:45,096 touchplay.input shield message: hwnd=657546 msg=0x246 wparam=0x40170ab3
+2026-11-14 00:51:45,096 touchplay.input overlay down: id=2739 xy=88.8,137.6
+2026-11-14 00:51:45,107 touchplay.input hit: kind=control action=None control=c1 editing=False size=1536x864
+2026-11-14 00:51:45,108 touchplay.input SendInput key: scan=0x1 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:45,200 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x247 shield=657546
+2026-11-14 00:51:45,200 touchplay.input shield message: hwnd=657546 msg=0x247 wparam=0x40000ab3
+2026-11-14 00:51:45,200 touchplay.input overlay up: id=2739 xy=88.8,137.6 kind=control moved=None
+2026-11-14 00:51:45,201 touchplay.input SendInput key: scan=0x1 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:45,674 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x247 shield=657546
+2026-11-14 00:51:45,674 touchplay.input shield message: hwnd=657546 msg=0x247 wparam=0x60000ab2
+2026-11-14 00:51:45,674 touchplay.input overlay up: id=2738 xy=252.0,483.2 kind=control moved=None
+2026-11-14 00:51:45,674 touchplay.input SendInput key: scan=0x11 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:45,794 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x246 shield=657546
+2026-11-14 00:51:45,794 touchplay.input shield message: hwnd=657546 msg=0x246 wparam=0x60170ab4
+2026-11-14 00:51:45,794 touchplay.input overlay down: id=2740 xy=265.6,664.8
+2026-11-14 00:51:45,797 touchplay.input hit: kind=control action=None control=c14 editing=False size=1536x864
+2026-11-14 00:51:45,898 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:51:45,898 touchplay.input SendInput key: scan=0x11 flags=0x8 sent=1 foreground=None
+2026-11-14 00:51:45,935 touchplay.input SendInput key: scan=0x1e flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:46,087 touchplay.input SendInput key: scan=0x1e flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:46,372 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x246 shield=657546
+2026-11-14 00:51:46,372 touchplay.input shield message: hwnd=657546 msg=0x246 wparam=0x40170ab5
+2026-11-14 00:51:46,372 touchplay.input overlay down: id=2741 xy=72.0,129.6
+2026-11-14 00:51:46,375 touchplay.input hit: kind=control action=None control=c1 editing=False size=1536x864
+2026-11-14 00:51:46,375 touchplay.input SendInput key: scan=0x1 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:46,419 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x247 shield=657546
+2026-11-14 00:51:46,419 touchplay.input shield message: hwnd=657546 msg=0x247 wparam=0x40000ab5
+2026-11-14 00:51:46,419 touchplay.input overlay up: id=2741 xy=70.4,129.6 kind=control moved=None
+2026-11-14 00:51:46,420 touchplay.input SendInput key: scan=0x1 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:46,741 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x246 shield=657546
+2026-11-14 00:51:46,741 touchplay.input shield message: hwnd=657546 msg=0x246 wparam=0x40170ab6
+2026-11-14 00:51:46,741 touchplay.input overlay down: id=2742 xy=70.4,136.8
+2026-11-14 00:51:46,745 touchplay.input hit: kind=control action=None control=c1 editing=False size=1536x864
+2026-11-14 00:51:46,746 touchplay.input SendInput key: scan=0x1 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:46,834 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x247 shield=657546
+2026-11-14 00:51:46,834 touchplay.input shield message: hwnd=657546 msg=0x247 wparam=0x40000ab6
+2026-11-14 00:51:46,834 touchplay.input overlay up: id=2742 xy=70.4,136.8 kind=control moved=None
+2026-11-14 00:51:46,834 touchplay.input SendInput key: scan=0x1 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:47,016 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x247 shield=657546
+2026-11-14 00:51:47,016 touchplay.input shield message: hwnd=657546 msg=0x247 wparam=0x60000ab4
+2026-11-14 00:51:47,016 touchplay.input overlay up: id=2740 xy=257.6,468.8 kind=control moved=None
+2026-11-14 00:51:47,016 touchplay.input SendInput key: scan=0x11 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:47,216 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x246 shield=657546
+2026-11-14 00:51:47,216 touchplay.input shield message: hwnd=657546 msg=0x246 wparam=0x60170ab7
+2026-11-14 00:51:47,216 touchplay.input overlay down: id=2743 xy=224.8,672.0
+2026-11-14 00:51:47,217 touchplay.input hit: kind=control action=None control=c14 editing=False size=1536x864
+2026-11-14 00:51:47,309 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:51:47,310 touchplay.input SendInput key: scan=0x11 flags=0x8 sent=1 foreground=None
+2026-11-14 00:51:47,409 touchplay.input SendInput key: scan=0x20 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:47,445 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x246 shield=657546
+2026-11-14 00:51:47,446 touchplay.input shield message: hwnd=657546 msg=0x246 wparam=0x40170ab8
+2026-11-14 00:51:47,446 touchplay.input overlay down: id=2744 xy=76.8,136.8
+2026-11-14 00:51:47,458 touchplay.input hit: kind=control action=None control=c1 editing=False size=1536x864
+2026-11-14 00:51:47,458 touchplay.input SendInput key: scan=0x1 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:47,531 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x247 shield=657546
+2026-11-14 00:51:47,531 touchplay.input shield message: hwnd=657546 msg=0x247 wparam=0x40000ab8
+2026-11-14 00:51:47,531 touchplay.input overlay up: id=2744 xy=76.8,137.6 kind=control moved=None
+2026-11-14 00:51:47,531 touchplay.input SendInput key: scan=0x1 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:47,651 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x246 shield=657546
+2026-11-14 00:51:47,651 touchplay.input shield message: hwnd=657546 msg=0x246 wparam=0x40170ab9
+2026-11-14 00:51:47,651 touchplay.input overlay down: id=2745 xy=65.6,117.6
+2026-11-14 00:51:47,654 touchplay.input hit: kind=control action=None control=c1 editing=False size=1536x864
+2026-11-14 00:51:47,655 touchplay.input SendInput key: scan=0x1 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:47,700 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x247 shield=657546
+2026-11-14 00:51:47,700 touchplay.input shield message: hwnd=657546 msg=0x247 wparam=0x40000ab9
+2026-11-14 00:51:47,700 touchplay.input overlay up: id=2745 xy=65.6,117.6 kind=control moved=None
+2026-11-14 00:51:47,700 touchplay.input SendInput key: scan=0x1 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:47,959 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x246 shield=657546
+2026-11-14 00:51:47,960 touchplay.input shield message: hwnd=657546 msg=0x246 wparam=0x40170aba
+2026-11-14 00:51:47,960 touchplay.input overlay down: id=2746 xy=1136.8,533.6
+2026-11-14 00:51:47,971 touchplay.input hit: kind=control action=None control=c15 editing=False size=1536x864
+2026-11-14 00:51:48,084 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x247 shield=657546
+2026-11-14 00:51:48,084 touchplay.input shield message: hwnd=657546 msg=0x247 wparam=0x60000ab7
+2026-11-14 00:51:48,084 touchplay.input overlay up: id=2743 xy=355.2,592.8 kind=control moved=None
+2026-11-14 00:51:48,085 touchplay.input SendInput key: scan=0x11 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:48,085 touchplay.input SendInput key: scan=0x20 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:48,131 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x247 shield=657546
+2026-11-14 00:51:48,131 touchplay.input shield message: hwnd=657546 msg=0x247 wparam=0x40000aba
+2026-11-14 00:51:48,131 touchplay.input overlay up: id=2746 xy=1284.8,480.8 kind=control moved=None
+2026-11-14 00:51:48,232 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x246 shield=657546
+2026-11-14 00:51:48,233 touchplay.input shield message: hwnd=657546 msg=0x246 wparam=0x60170abb
+2026-11-14 00:51:48,233 touchplay.input overlay down: id=2747 xy=96.0,168.0
+2026-11-14 00:51:48,244 touchplay.input hit: kind=control action=None control=c1 editing=False size=1536x864
+2026-11-14 00:51:48,244 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:51:48,245 touchplay.input SendInput key: scan=0x1 flags=0x8 sent=1 foreground=None
+2026-11-14 00:51:48,305 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x247 shield=657546
+2026-11-14 00:51:48,305 touchplay.input shield message: hwnd=657546 msg=0x247 wparam=0x60000abb
+2026-11-14 00:51:48,305 touchplay.input overlay up: id=2747 xy=96.0,169.6 kind=control moved=None
+2026-11-14 00:51:48,305 touchplay.input SendInput key: scan=0x1 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:48,522 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x246 shield=657546
+2026-11-14 00:51:48,523 touchplay.input shield message: hwnd=657546 msg=0x246 wparam=0x60170abc
+2026-11-14 00:51:48,523 touchplay.input overlay down: id=2748 xy=1142.4,542.4
+2026-11-14 00:51:48,533 touchplay.input hit: kind=control action=None control=c15 editing=False size=1536x864
+2026-11-14 00:51:48,575 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:51:48,756 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x247 shield=657546
+2026-11-14 00:51:48,756 touchplay.input shield message: hwnd=657546 msg=0x247 wparam=0x60000abc
+2026-11-14 00:51:48,756 touchplay.input overlay up: id=2748 xy=1452.8,434.4 kind=control moved=None
+2026-11-14 00:51:49,036 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x246 shield=657546
+2026-11-14 00:51:49,036 touchplay.input shield message: hwnd=657546 msg=0x246 wparam=0x60170abd
+2026-11-14 00:51:49,036 touchplay.input overlay down: id=2749 xy=75.2,129.6
+2026-11-14 00:51:49,046 touchplay.input hit: kind=control action=None control=c1 editing=False size=1536x864
+2026-11-14 00:51:49,046 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:51:49,047 touchplay.input SendInput key: scan=0x1 flags=0x8 sent=1 foreground=None
+2026-11-14 00:51:49,061 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x247 shield=657546
+2026-11-14 00:51:49,061 touchplay.input shield message: hwnd=657546 msg=0x247 wparam=0x60000abd
+2026-11-14 00:51:49,061 touchplay.input overlay up: id=2749 xy=75.2,129.6 kind=control moved=None
+2026-11-14 00:51:49,061 touchplay.input SendInput key: scan=0x1 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:49,363 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x246 shield=657546
+2026-11-14 00:51:49,363 touchplay.input shield message: hwnd=657546 msg=0x246 wparam=0x60170abe
+2026-11-14 00:51:49,363 touchplay.input overlay down: id=2750 xy=1025.6,522.4
+2026-11-14 00:51:49,374 touchplay.input hit: kind=control action=None control=c15 editing=False size=1536x864
+2026-11-14 00:51:49,404 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:51:49,528 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x247 shield=657546
+2026-11-14 00:51:49,528 touchplay.input shield message: hwnd=657546 msg=0x247 wparam=0x60000abe
+2026-11-14 00:51:49,528 touchplay.input overlay up: id=2750 xy=1349.6,416.8 kind=control moved=None
+2026-11-14 00:51:49,698 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x246 shield=657546
+2026-11-14 00:51:49,698 touchplay.input shield message: hwnd=657546 msg=0x246 wparam=0x60170abf
+2026-11-14 00:51:49,699 touchplay.input overlay down: id=2751 xy=77.6,128.0
+2026-11-14 00:51:49,700 touchplay.input hit: kind=control action=None control=c1 editing=False size=1536x864
+2026-11-14 00:51:49,701 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=2819452
+2026-11-14 00:51:49,701 touchplay.input SendInput key: scan=0x1 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:49,774 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x247 shield=657546
+2026-11-14 00:51:49,774 touchplay.input shield message: hwnd=657546 msg=0x247 wparam=0x60000abf
+2026-11-14 00:51:49,774 touchplay.input overlay up: id=2751 xy=77.6,128.0 kind=control moved=None
+2026-11-14 00:51:49,775 touchplay.input SendInput key: scan=0x1 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:50,957 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x246 shield=657546
+2026-11-14 00:51:50,957 touchplay.input shield message: hwnd=657546 msg=0x246 wparam=0x60170ac0
+2026-11-14 00:51:50,957 touchplay.input overlay down: id=2752 xy=1400.0,720.8
+2026-11-14 00:51:50,968 touchplay.input hit: kind=control action=None control=c4 editing=False size=1536x864
+2026-11-14 00:51:50,969 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:51:50,970 touchplay.input SendInput key: scan=0x2a flags=0x8 sent=1 foreground=None
+2026-11-14 00:51:51,036 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x247 shield=657546
+2026-11-14 00:51:51,036 touchplay.input shield message: hwnd=657546 msg=0x247 wparam=0x60000ac0
+2026-11-14 00:51:51,036 touchplay.input overlay up: id=2752 xy=1400.0,720.8 kind=control moved=None
+2026-11-14 00:51:51,037 touchplay.input SendInput key: scan=0x2a flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:51,413 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x246 shield=657546
+2026-11-14 00:51:51,413 touchplay.input shield message: hwnd=657546 msg=0x246 wparam=0x60170ac1
+2026-11-14 00:51:51,413 touchplay.input overlay down: id=2753 xy=1388.0,709.6
+2026-11-14 00:51:51,415 touchplay.input hit: kind=control action=None control=c4 editing=False size=1536x864
+2026-11-14 00:51:51,416 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=2819452
+2026-11-14 00:51:51,417 touchplay.input SendInput key: scan=0x2a flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:51,446 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x247 shield=657546
+2026-11-14 00:51:51,447 touchplay.input shield message: hwnd=657546 msg=0x247 wparam=0x60000ac1
+2026-11-14 00:51:51,447 touchplay.input overlay up: id=2753 xy=1388.0,709.6 kind=control moved=None
+2026-11-14 00:51:51,447 touchplay.input SendInput key: scan=0x2a flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:51,636 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x246 shield=657546
+2026-11-14 00:51:51,637 touchplay.input shield message: hwnd=657546 msg=0x246 wparam=0x60170ac2
+2026-11-14 00:51:51,637 touchplay.input overlay down: id=2754 xy=46.4,115.2
+2026-11-14 00:51:51,640 touchplay.input hit: kind=control action=None control=c1 editing=False size=1536x864
+2026-11-14 00:51:51,640 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=2819452
+2026-11-14 00:51:51,641 touchplay.input SendInput key: scan=0x1 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:51,696 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x247 shield=657546
+2026-11-14 00:51:51,696 touchplay.input shield message: hwnd=657546 msg=0x247 wparam=0x60000ac2
+2026-11-14 00:51:51,697 touchplay.input overlay up: id=2754 xy=46.4,115.2 kind=control moved=None
+2026-11-14 00:51:51,697 touchplay.input SendInput key: scan=0x1 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:51,936 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x246 shield=657546
+2026-11-14 00:51:51,936 touchplay.input shield message: hwnd=657546 msg=0x246 wparam=0x60170ac3
+2026-11-14 00:51:51,936 touchplay.input overlay down: id=2755 xy=1349.6,712.0
+2026-11-14 00:51:51,947 touchplay.input hit: kind=control action=None control=c4 editing=False size=1536x864
+2026-11-14 00:51:51,948 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:51:51,949 touchplay.input SendInput key: scan=0x2a flags=0x8 sent=1 foreground=None
+2026-11-14 00:51:52,027 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x247 shield=657546
+2026-11-14 00:51:52,027 touchplay.input shield message: hwnd=657546 msg=0x247 wparam=0x60000ac3
+2026-11-14 00:51:52,027 touchplay.input overlay up: id=2755 xy=1349.6,712.0 kind=control moved=None
+2026-11-14 00:51:52,027 touchplay.input SendInput key: scan=0x2a flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:52,252 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x246 shield=657546
+2026-11-14 00:51:52,252 touchplay.input shield message: hwnd=657546 msg=0x246 wparam=0x60170ac4
+2026-11-14 00:51:52,252 touchplay.input overlay down: id=2756 xy=85.6,155.2
+2026-11-14 00:51:52,255 touchplay.input hit: kind=control action=None control=c1 editing=False size=1536x864
+2026-11-14 00:51:52,256 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=2819452
+2026-11-14 00:51:52,257 touchplay.input SendInput key: scan=0x1 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:52,316 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x247 shield=657546
+2026-11-14 00:51:52,316 touchplay.input shield message: hwnd=657546 msg=0x247 wparam=0x60000ac4
+2026-11-14 00:51:52,316 touchplay.input overlay up: id=2756 xy=85.6,155.2 kind=control moved=None
+2026-11-14 00:51:52,316 touchplay.input SendInput key: scan=0x1 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:52,428 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x246 shield=657546
+2026-11-14 00:51:52,429 touchplay.input shield message: hwnd=657546 msg=0x246 wparam=0x60170ac5
+2026-11-14 00:51:52,429 touchplay.input overlay down: id=2757 xy=1367.2,699.2
+2026-11-14 00:51:52,431 touchplay.input hit: kind=control action=None control=c4 editing=False size=1536x864
+2026-11-14 00:51:52,431 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=2819452
+2026-11-14 00:51:52,432 touchplay.input SendInput key: scan=0x2a flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:52,496 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x247 shield=657546
+2026-11-14 00:51:52,496 touchplay.input shield message: hwnd=657546 msg=0x247 wparam=0x60000ac5
+2026-11-14 00:51:52,496 touchplay.input overlay up: id=2757 xy=1365.6,699.2 kind=control moved=None
+2026-11-14 00:51:52,497 touchplay.input SendInput key: scan=0x2a flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:52,550 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x246 shield=657546
+2026-11-14 00:51:52,550 touchplay.input shield message: hwnd=657546 msg=0x246 wparam=0x60170ac6
+2026-11-14 00:51:52,550 touchplay.input overlay down: id=2758 xy=84.0,151.2
+2026-11-14 00:51:52,552 touchplay.input hit: kind=control action=None control=c1 editing=False size=1536x864
+2026-11-14 00:51:52,553 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=2819452
+2026-11-14 00:51:52,553 touchplay.input SendInput key: scan=0x1 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:52,634 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x247 shield=657546
+2026-11-14 00:51:52,634 touchplay.input shield message: hwnd=657546 msg=0x247 wparam=0x60000ac6
+2026-11-14 00:51:52,634 touchplay.input overlay up: id=2758 xy=84.0,151.2 kind=control moved=None
+2026-11-14 00:51:52,634 touchplay.input SendInput key: scan=0x1 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:53,391 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x246 shield=657546
+2026-11-14 00:51:53,391 touchplay.input shield message: hwnd=657546 msg=0x246 wparam=0x60170ac7
+2026-11-14 00:51:53,391 touchplay.input overlay down: id=2759 xy=1013.6,139.2
+2026-11-14 00:51:53,402 touchplay.input hit: kind=dead action=None control=None editing=False size=1536x864
+2026-11-14 00:51:53,538 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x247 shield=657546
+2026-11-14 00:51:53,538 touchplay.input shield message: hwnd=657546 msg=0x247 wparam=0x60000ac7
+2026-11-14 00:51:53,538 touchplay.input overlay up: id=2759 xy=1220.0,100.0 kind=dead moved=None
+2026-11-14 00:51:54,099 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x246 shield=657546
+2026-11-14 00:51:54,100 touchplay.input shield message: hwnd=657546 msg=0x246 wparam=0x60170ac8
+2026-11-14 00:51:54,100 touchplay.input overlay down: id=2760 xy=842.4,34.4
+2026-11-14 00:51:54,104 touchplay.input hit: kind=chrome action=hide control=None editing=False size=1536x864
+2026-11-14 00:51:54,151 touchplay.input Qt native: type=b'windows_generic_MSG' target=657546 msg=0x247 shield=657546
+2026-11-14 00:51:54,151 touchplay.input shield message: hwnd=657546 msg=0x247 wparam=0x60000ac8
+2026-11-14 00:51:54,151 touchplay.input overlay up: id=2760 xy=842.4,34.4 kind=chrome moved=False
+2026-11-14 00:51:56,053 touchplay.input Qt native: type=b'windows_generic_MSG' target=592094 msg=0x246 shield=657546
+2026-11-14 00:51:56,053 touchplay.input Qt native: type=b'windows_generic_MSG' target=592094 msg=0x246 shield=657546
+2026-11-14 00:51:56,060 touchplay.input shield shown: hwnd=723082 rect=(0, 0, 1920, 1080)
+2026-11-14 00:51:56,105 touchplay.input Qt native: type=b'windows_generic_MSG' target=592094 msg=0x247 shield=723082
+2026-11-14 00:51:56,106 touchplay.input Qt native: type=b'windows_generic_MSG' target=592094 msg=0x247 shield=723082
+2026-11-14 00:51:56,106 touchplay.input shield message: hwnd=723082 msg=0x202 wparam=0x0
+2026-11-14 00:51:56,929 touchplay.input Qt native: type=b'windows_generic_MSG' target=723082 msg=0x246 shield=723082
+2026-11-14 00:51:56,930 touchplay.input shield message: hwnd=723082 msg=0x246 wparam=0x60170acf
+2026-11-14 00:51:56,930 touchplay.input overlay down: id=2767 xy=256.0,592.8
+2026-11-14 00:51:56,932 touchplay.input hit: kind=control action=None control=c14 editing=False size=1536x864
+2026-11-14 00:51:56,933 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=2819452
+2026-11-14 00:51:56,934 touchplay.input SendInput key: scan=0x11 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:57,037 touchplay.input SendInput key: scan=0x1e flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:57,219 touchplay.input Qt native: type=b'windows_generic_MSG' target=723082 msg=0x247 shield=723082
+2026-11-14 00:51:57,219 touchplay.input shield message: hwnd=723082 msg=0x247 wparam=0x60000acf
+2026-11-14 00:51:57,219 touchplay.input overlay up: id=2767 xy=202.4,510.4 kind=control moved=None
+2026-11-14 00:51:57,220 touchplay.input SendInput key: scan=0x11 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:57,220 touchplay.input SendInput key: scan=0x1e flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:58,589 touchplay.input Qt native: type=b'windows_generic_MSG' target=723082 msg=0x246 shield=723082
+2026-11-14 00:51:58,589 touchplay.input shield message: hwnd=723082 msg=0x246 wparam=0x60170ad0
+2026-11-14 00:51:58,589 touchplay.input overlay down: id=2768 xy=229.6,622.4
+2026-11-14 00:51:58,590 touchplay.input hit: kind=control action=None control=c14 editing=False size=1536x864
+2026-11-14 00:51:58,692 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:51:58,693 touchplay.input SendInput key: scan=0x11 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:58,694 touchplay.input SendInput key: scan=0x1e flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:59,077 touchplay.input SendInput key: scan=0x1e flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:59,142 touchplay.input SendInput key: scan=0x11 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:59,160 touchplay.input SendInput key: scan=0x20 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:59,266 touchplay.input SendInput key: scan=0x11 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:59,342 touchplay.input Qt native: type=b'windows_generic_MSG' target=723082 msg=0x247 shield=723082
+2026-11-14 00:51:59,343 touchplay.input shield message: hwnd=723082 msg=0x247 wparam=0x60000ad0
+2026-11-14 00:51:59,343 touchplay.input overlay up: id=2768 xy=352.0,587.2 kind=control moved=None
+2026-11-14 00:51:59,343 touchplay.input SendInput key: scan=0x11 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:59,344 touchplay.input SendInput key: scan=0x20 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:59,506 touchplay.input Qt native: type=b'windows_generic_MSG' target=723082 msg=0x246 shield=723082
+2026-11-14 00:51:59,506 touchplay.input shield message: hwnd=723082 msg=0x246 wparam=0x60170ad1
+2026-11-14 00:51:59,507 touchplay.input overlay down: id=2769 xy=92.8,160.8
+2026-11-14 00:51:59,509 touchplay.input hit: kind=control action=None control=c1 editing=False size=1536x864
+2026-11-14 00:51:59,510 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:51:59,510 touchplay.input SendInput key: scan=0x1 flags=0x8 sent=1 foreground=None
+2026-11-14 00:51:59,541 touchplay.input Qt native: type=b'windows_generic_MSG' target=723082 msg=0x247 shield=723082
+2026-11-14 00:51:59,542 touchplay.input shield message: hwnd=723082 msg=0x247 wparam=0x60000ad1
+2026-11-14 00:51:59,542 touchplay.input overlay up: id=2769 xy=92.8,160.8 kind=control moved=None
+2026-11-14 00:51:59,542 touchplay.input SendInput key: scan=0x1 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:59,635 touchplay.input Qt native: type=b'windows_generic_MSG' target=723082 msg=0x246 shield=723082
+2026-11-14 00:51:59,635 touchplay.input shield message: hwnd=723082 msg=0x246 wparam=0x60170ad2
+2026-11-14 00:51:59,635 touchplay.input overlay down: id=2770 xy=84.0,149.6
+2026-11-14 00:51:59,637 touchplay.input hit: kind=control action=None control=c1 editing=False size=1536x864
+2026-11-14 00:51:59,638 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=2819452
+2026-11-14 00:51:59,639 touchplay.input SendInput key: scan=0x1 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:59,684 touchplay.input Qt native: type=b'windows_generic_MSG' target=723082 msg=0x247 shield=723082
+2026-11-14 00:51:59,685 touchplay.input shield message: hwnd=723082 msg=0x247 wparam=0x60000ad2
+2026-11-14 00:51:59,685 touchplay.input overlay up: id=2770 xy=84.0,149.6 kind=control moved=None
+2026-11-14 00:51:59,685 touchplay.input SendInput key: scan=0x1 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:51:59,795 touchplay.input Qt native: type=b'windows_generic_MSG' target=723082 msg=0x246 shield=723082
+2026-11-14 00:51:59,795 touchplay.input shield message: hwnd=723082 msg=0x246 wparam=0x60170ad3
+2026-11-14 00:51:59,795 touchplay.input overlay down: id=2771 xy=80.8,153.6
+2026-11-14 00:51:59,796 touchplay.input hit: kind=control action=None control=c1 editing=False size=1536x864
+2026-11-14 00:51:59,797 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=2819452
+2026-11-14 00:51:59,798 touchplay.input SendInput key: scan=0x1 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:51:59,862 touchplay.input Qt native: type=b'windows_generic_MSG' target=723082 msg=0x247 shield=723082
+2026-11-14 00:51:59,862 touchplay.input shield message: hwnd=723082 msg=0x247 wparam=0x60000ad3
+2026-11-14 00:51:59,862 touchplay.input overlay up: id=2771 xy=80.8,153.6 kind=control moved=None
+2026-11-14 00:51:59,862 touchplay.input SendInput key: scan=0x1 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:52:00,439 touchplay.input Qt native: type=b'windows_generic_MSG' target=723082 msg=0x246 shield=723082
+2026-11-14 00:52:00,439 touchplay.input shield message: hwnd=723082 msg=0x246 wparam=0x60170ad4
+2026-11-14 00:52:00,439 touchplay.input overlay down: id=2772 xy=610.4,850.4
+2026-11-14 00:52:00,451 touchplay.input hit: kind=dead action=None control=None editing=False size=1536x864
+2026-11-14 00:52:00,479 touchplay.input Qt native: type=b'windows_generic_MSG' target=723082 msg=0x247 shield=723082
+2026-11-14 00:52:00,479 touchplay.input shield message: hwnd=723082 msg=0x247 wparam=0x60000ad4
+2026-11-14 00:52:00,479 touchplay.input overlay up: id=2772 xy=610.4,850.4 kind=dead moved=None
+2026-11-14 00:52:00,820 touchplay.input Qt native: type=b'windows_generic_MSG' target=723082 msg=0x246 shield=723082
+2026-11-14 00:52:00,820 touchplay.input shield message: hwnd=723082 msg=0x246 wparam=0x60170ad5
+2026-11-14 00:52:00,820 touchplay.input overlay down: id=2773 xy=250.4,624.8
+2026-11-14 00:52:00,821 touchplay.input hit: kind=control action=None control=c14 editing=False size=1536x864
+2026-11-14 00:52:01,008 touchplay.input Qt native: type=b'windows_generic_MSG' target=723082 msg=0x247 shield=723082
+2026-11-14 00:52:01,008 touchplay.input shield message: hwnd=723082 msg=0x247 wparam=0x60000ad5
+2026-11-14 00:52:01,009 touchplay.input overlay up: id=2773 xy=245.6,627.2 kind=control moved=None
+2026-11-14 00:52:01,417 touchplay.input Qt native: type=b'windows_generic_MSG' target=723082 msg=0x246 shield=723082
+2026-11-14 00:52:01,417 touchplay.input shield message: hwnd=723082 msg=0x246 wparam=0x60170ad6
+2026-11-14 00:52:01,417 touchplay.input overlay down: id=2774 xy=595.2,859.2
+2026-11-14 00:52:01,427 touchplay.input hit: kind=dead action=None control=None editing=False size=1536x864
+2026-11-14 00:52:01,457 touchplay.input Qt native: type=b'windows_generic_MSG' target=723082 msg=0x247 shield=723082
+2026-11-14 00:52:01,458 touchplay.input shield message: hwnd=723082 msg=0x247 wparam=0x60000ad6
+2026-11-14 00:52:01,458 touchplay.input overlay up: id=2774 xy=595.2,859.2 kind=dead moved=None
+2026-11-14 00:52:02,078 touchplay.input Qt native: type=b'windows_generic_MSG' target=723082 msg=0x246 shield=723082
+2026-11-14 00:52:02,078 touchplay.input shield message: hwnd=723082 msg=0x246 wparam=0x60170ad7
+2026-11-14 00:52:02,078 touchplay.input overlay down: id=2775 xy=857.6,29.6
+2026-11-14 00:52:02,089 touchplay.input hit: kind=chrome action=hide control=None editing=False size=1536x864
+2026-11-14 00:52:02,105 touchplay.input Qt native: type=b'windows_generic_MSG' target=723082 msg=0x247 shield=723082
+2026-11-14 00:52:02,106 touchplay.input shield message: hwnd=723082 msg=0x247 wparam=0x60000ad7
+2026-11-14 00:52:02,106 touchplay.input overlay up: id=2775 xy=857.6,29.6 kind=chrome moved=False
+2026-11-14 00:52:03,210 touchplay.input Qt native: type=b'windows_generic_MSG' target=592094 msg=0x246 shield=723082
+2026-11-14 00:52:03,210 touchplay.input Qt native: type=b'windows_generic_MSG' target=592094 msg=0x246 shield=723082
+2026-11-14 00:52:03,221 touchplay.input shield shown: hwnd=788618 rect=(0, 0, 1920, 1080)
+2026-11-14 00:52:03,245 touchplay.input Qt native: type=b'windows_generic_MSG' target=592094 msg=0x247 shield=788618
+2026-11-14 00:52:03,246 touchplay.input Qt native: type=b'windows_generic_MSG' target=592094 msg=0x247 shield=788618
+2026-11-14 00:52:03,247 touchplay.input shield message: hwnd=788618 msg=0x202 wparam=0x0
+2026-11-14 00:52:03,748 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x246 shield=788618
+2026-11-14 00:52:03,748 touchplay.input shield message: hwnd=788618 msg=0x246 wparam=0x60170ada
+2026-11-14 00:52:03,749 touchplay.input overlay down: id=2778 xy=260.8,664.8
+2026-11-14 00:52:03,752 touchplay.input hit: kind=control action=None control=c14 editing=False size=1536x864
+2026-11-14 00:52:03,841 touchplay.input restore game focus: previous=0 game=6096980 restored=1 current=None
+2026-11-14 00:52:03,842 touchplay.input SendInput key: scan=0x1f flags=0x8 sent=1 foreground=6096980
+2026-11-14 00:52:03,862 touchplay.input SendInput key: scan=0x20 flags=0x8 sent=1 foreground=6096980
+2026-11-14 00:52:03,958 touchplay.input SendInput key: scan=0x1f flags=0xa sent=1 foreground=6096980
+2026-11-14 00:52:03,977 touchplay.input SendInput key: scan=0x20 flags=0xa sent=1 foreground=6096980
+2026-11-14 00:52:03,978 touchplay.input SendInput key: scan=0x11 flags=0x8 sent=1 foreground=6096980
+2026-11-14 00:52:04,038 touchplay.input SendInput key: scan=0x1e flags=0x8 sent=1 foreground=6096980
+2026-11-14 00:52:04,181 touchplay.input SendInput key: scan=0x1e flags=0xa sent=1 foreground=6096980
+2026-11-14 00:52:04,195 touchplay.input SendInput key: scan=0x11 flags=0xa sent=1 foreground=6096980
+2026-11-14 00:52:04,225 touchplay.input SendInput key: scan=0x20 flags=0x8 sent=1 foreground=6096980
+2026-11-14 00:52:04,240 touchplay.input SendInput key: scan=0x1f flags=0x8 sent=1 foreground=6096980
+2026-11-14 00:52:04,314 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x247 shield=788618
+2026-11-14 00:52:04,314 touchplay.input shield message: hwnd=788618 msg=0x247 wparam=0x60000ada
+2026-11-14 00:52:04,314 touchplay.input overlay up: id=2778 xy=305.6,695.2 kind=control moved=None
+2026-11-14 00:52:04,314 touchplay.input SendInput key: scan=0x1f flags=0xa sent=1 foreground=6096980
+2026-11-14 00:52:04,315 touchplay.input SendInput key: scan=0x20 flags=0xa sent=1 foreground=6096980
+2026-11-14 00:52:05,908 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=1461,836 over_shield=True
+2026-11-14 00:52:05,909 touchplay.input shield message: hwnd=788618 msg=0x201 wparam=0x1
+2026-11-14 00:52:05,910 touchplay.input overlay down: id=mouse xy=1168.8,668.8
+2026-11-14 00:52:05,920 touchplay.input hit: kind=control action=None control=c15 editing=False size=1536x864
+2026-11-14 00:52:05,979 touchplay.input restore game focus: previous=0 game=6096980 restored=1 current=None
+2026-11-14 00:52:06,022 touchplay.input shield message: hwnd=788618 msg=0x202 wparam=0x0
+2026-11-14 00:52:06,022 touchplay.input overlay up: id=mouse xy=1174.4,665.6 kind=control moved=None
+2026-11-14 00:52:06,429 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=1429,923 over_shield=True
+2026-11-14 00:52:06,430 touchplay.input shield message: hwnd=788618 msg=0x201 wparam=0x1
+2026-11-14 00:52:06,430 touchplay.input overlay down: id=mouse xy=1143.2,738.4
+2026-11-14 00:52:06,433 touchplay.input hit: kind=control action=None control=c15 editing=False size=1536x864
+2026-11-14 00:52:06,461 touchplay.input restore game focus: previous=0 game=6096980 restored=1 current=None
+2026-11-14 00:52:06,517 touchplay.input shield message: hwnd=788618 msg=0x202 wparam=0x0
+2026-11-14 00:52:06,517 touchplay.input overlay up: id=mouse xy=1142.4,738.4 kind=control moved=None
+2026-11-14 00:52:09,346 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x246 shield=788618
+2026-11-14 00:52:09,346 touchplay.input shield message: hwnd=788618 msg=0x246 wparam=0x60170adc
+2026-11-14 00:52:09,346 touchplay.input overlay down: id=2780 xy=1055.2,688.0
+2026-11-14 00:52:09,356 touchplay.input hit: kind=control action=None control=c15 editing=False size=1536x864
+2026-11-14 00:52:09,382 touchplay.input restore game focus: previous=0 game=66078 restored=1 current=None
+2026-11-14 00:52:09,643 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x247 shield=788618
+2026-11-14 00:52:09,643 touchplay.input shield message: hwnd=788618 msg=0x247 wparam=0x60000adc
+2026-11-14 00:52:09,643 touchplay.input overlay up: id=2780 xy=1130.4,634.4 kind=control moved=None
+2026-11-14 00:52:09,981 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x246 shield=788618
+2026-11-14 00:52:09,981 touchplay.input shield message: hwnd=788618 msg=0x246 wparam=0x60170add
+2026-11-14 00:52:09,981 touchplay.input overlay down: id=2781 xy=1123.2,594.4
+2026-11-14 00:52:09,991 touchplay.input hit: kind=control action=None control=c15 editing=False size=1536x864
+2026-11-14 00:52:10,055 touchplay.input restore game focus: previous=0 game=66078 restored=1 current=None
+2026-11-14 00:52:11,478 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x247 shield=788618
+2026-11-14 00:52:11,478 touchplay.input shield message: hwnd=788618 msg=0x247 wparam=0x60000add
+2026-11-14 00:52:11,478 touchplay.input overlay up: id=2781 xy=1530.4,735.2 kind=control moved=None
+2026-11-14 00:52:12,232 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x246 shield=788618
+2026-11-14 00:52:12,232 touchplay.input shield message: hwnd=788618 msg=0x246 wparam=0x60170ade
+2026-11-14 00:52:12,232 touchplay.input overlay down: id=2782 xy=1449.6,610.4
+2026-11-14 00:52:12,243 touchplay.input hit: kind=control action=None control=c5 editing=False size=1536x864
+2026-11-14 00:52:12,243 touchplay.input restore game focus: previous=0 game=66078 restored=1 current=None
+2026-11-14 00:52:12,244 touchplay.input SendInput key: scan=0x39 flags=0x8 sent=1 foreground=66078
+2026-11-14 00:52:12,310 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x247 shield=788618
+2026-11-14 00:52:12,310 touchplay.input shield message: hwnd=788618 msg=0x247 wparam=0x60000ade
+2026-11-14 00:52:12,310 touchplay.input overlay up: id=2782 xy=1449.6,610.4 kind=control moved=None
+2026-11-14 00:52:12,310 touchplay.input SendInput key: scan=0x39 flags=0xa sent=1 foreground=66078
+2026-11-14 00:52:12,802 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x246 shield=788618
+2026-11-14 00:52:12,802 touchplay.input shield message: hwnd=788618 msg=0x246 wparam=0x60170adf
+2026-11-14 00:52:12,802 touchplay.input overlay down: id=2783 xy=1456.0,401.6
+2026-11-14 00:52:12,805 touchplay.input hit: kind=control action=None control=c12 editing=False size=1536x864
+2026-11-14 00:52:12,806 touchplay.input restore game focus: previous=0 game=66078 restored=1 current=None
+2026-11-14 00:52:12,861 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x247 shield=788618
+2026-11-14 00:52:12,861 touchplay.input shield message: hwnd=788618 msg=0x247 wparam=0x60000adf
+2026-11-14 00:52:12,861 touchplay.input overlay up: id=2783 xy=1454.4,401.6 kind=control moved=None
+2026-11-14 00:52:12,862 touchplay.input restore game focus: previous=0 game=66078 restored=1 current=None
+2026-11-14 00:52:13,323 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x246 shield=788618
+2026-11-14 00:52:13,323 touchplay.input shield message: hwnd=788618 msg=0x246 wparam=0x60170ae0
+2026-11-14 00:52:13,323 touchplay.input overlay down: id=2784 xy=1280.0,227.2
+2026-11-14 00:52:13,333 touchplay.input hit: kind=control action=None control=c11 editing=False size=1536x864
+2026-11-14 00:52:13,333 touchplay.input restore game focus: previous=0 game=66078 restored=1 current=None
+2026-11-14 00:52:13,334 touchplay.input SendInput key: scan=0x13 flags=0x8 sent=1 foreground=66078
+2026-11-14 00:52:13,385 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x247 shield=788618
+2026-11-14 00:52:13,385 touchplay.input shield message: hwnd=788618 msg=0x247 wparam=0x60000ae0
+2026-11-14 00:52:13,385 touchplay.input overlay up: id=2784 xy=1280.0,227.2 kind=control moved=None
+2026-11-14 00:52:13,386 touchplay.input SendInput key: scan=0x13 flags=0xa sent=1 foreground=66078
+2026-11-14 00:52:13,687 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x246 shield=788618
+2026-11-14 00:52:13,687 touchplay.input shield message: hwnd=788618 msg=0x246 wparam=0x60170ae1
+2026-11-14 00:52:13,687 touchplay.input overlay down: id=2785 xy=1243.2,181.6
+2026-11-14 00:52:13,689 touchplay.input hit: kind=control action=None control=c10 editing=False size=1536x864
+2026-11-14 00:52:13,689 touchplay.input restore game focus: previous=0 game=66078 restored=1 current=None
+2026-11-14 00:52:13,690 touchplay.input SendInput key: scan=0x12 flags=0x8 sent=1 foreground=66078
+2026-11-14 00:52:13,743 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x247 shield=788618
+2026-11-14 00:52:13,743 touchplay.input shield message: hwnd=788618 msg=0x247 wparam=0x60000ae1
+2026-11-14 00:52:13,743 touchplay.input overlay up: id=2785 xy=1243.2,181.6 kind=control moved=None
+2026-11-14 00:52:13,743 touchplay.input SendInput key: scan=0x12 flags=0xa sent=1 foreground=66078
+2026-11-14 00:52:13,826 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x246 shield=788618
+2026-11-14 00:52:13,826 touchplay.input shield message: hwnd=788618 msg=0x246 wparam=0x60170ae2
+2026-11-14 00:52:13,826 touchplay.input overlay down: id=2786 xy=1233.6,178.4
+2026-11-14 00:52:13,829 touchplay.input hit: kind=control action=None control=c10 editing=False size=1536x864
+2026-11-14 00:52:13,829 touchplay.input restore game focus: previous=0 game=66078 restored=1 current=None
+2026-11-14 00:52:13,830 touchplay.input SendInput key: scan=0x12 flags=0x8 sent=1 foreground=66078
+2026-11-14 00:52:13,880 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x247 shield=788618
+2026-11-14 00:52:13,880 touchplay.input shield message: hwnd=788618 msg=0x247 wparam=0x60000ae2
+2026-11-14 00:52:13,880 touchplay.input overlay up: id=2786 xy=1233.6,178.4 kind=control moved=None
+2026-11-14 00:52:13,881 touchplay.input SendInput key: scan=0x12 flags=0xa sent=1 foreground=66078
+2026-11-14 00:52:13,947 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x246 shield=788618
+2026-11-14 00:52:13,947 touchplay.input shield message: hwnd=788618 msg=0x246 wparam=0x60170ae3
+2026-11-14 00:52:13,947 touchplay.input overlay down: id=2787 xy=1240.0,172.8
+2026-11-14 00:52:13,950 touchplay.input hit: kind=control action=None control=c10 editing=False size=1536x864
+2026-11-14 00:52:13,950 touchplay.input restore game focus: previous=0 game=66078 restored=1 current=None
+2026-11-14 00:52:13,952 touchplay.input SendInput key: scan=0x12 flags=0x8 sent=1 foreground=66078
+2026-11-14 00:52:14,001 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x247 shield=788618
+2026-11-14 00:52:14,001 touchplay.input shield message: hwnd=788618 msg=0x247 wparam=0x60000ae3
+2026-11-14 00:52:14,001 touchplay.input overlay up: id=2787 xy=1238.4,172.8 kind=control moved=None
+2026-11-14 00:52:14,002 touchplay.input SendInput key: scan=0x12 flags=0xa sent=1 foreground=66078
+2026-11-14 00:52:14,068 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x246 shield=788618
+2026-11-14 00:52:14,068 touchplay.input shield message: hwnd=788618 msg=0x246 wparam=0x60170ae4
+2026-11-14 00:52:14,068 touchplay.input overlay down: id=2788 xy=1240.0,171.2
+2026-11-14 00:52:14,071 touchplay.input hit: kind=control action=None control=c10 editing=False size=1536x864
+2026-11-14 00:52:14,071 touchplay.input restore game focus: previous=0 game=66078 restored=1 current=None
+2026-11-14 00:52:14,072 touchplay.input SendInput key: scan=0x12 flags=0x8 sent=1 foreground=66078
+2026-11-14 00:52:14,133 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x247 shield=788618
+2026-11-14 00:52:14,133 touchplay.input shield message: hwnd=788618 msg=0x247 wparam=0x60000ae4
+2026-11-14 00:52:14,133 touchplay.input overlay up: id=2788 xy=1240.0,171.2 kind=control moved=None
+2026-11-14 00:52:14,134 touchplay.input SendInput key: scan=0x12 flags=0xa sent=1 foreground=66078
+2026-11-14 00:52:17,743 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x246 shield=788618
+2026-11-14 00:52:17,743 touchplay.input shield message: hwnd=788618 msg=0x246 wparam=0x60170ae5
+2026-11-14 00:52:17,743 touchplay.input overlay down: id=2789 xy=1304.0,223.2
+2026-11-14 00:52:17,754 touchplay.input hit: kind=control action=None control=c11 editing=False size=1536x864
+2026-11-14 00:52:17,754 touchplay.input restore game focus: previous=0 game=66180 restored=1 current=None
+2026-11-14 00:52:17,755 touchplay.input SendInput key: scan=0x13 flags=0x8 sent=1 foreground=66180
+2026-11-14 00:52:17,820 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x247 shield=788618
+2026-11-14 00:52:17,821 touchplay.input shield message: hwnd=788618 msg=0x247 wparam=0x60000ae5
+2026-11-14 00:52:17,821 touchplay.input overlay up: id=2789 xy=1303.2,223.2 kind=control moved=None
+2026-11-14 00:52:17,821 touchplay.input SendInput key: scan=0x13 flags=0xa sent=1 foreground=66180
+2026-11-14 00:52:17,884 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x246 shield=788618
+2026-11-14 00:52:17,884 touchplay.input shield message: hwnd=788618 msg=0x246 wparam=0x60170ae6
+2026-11-14 00:52:17,884 touchplay.input overlay down: id=2790 xy=1308.8,216.0
+2026-11-14 00:52:17,886 touchplay.input hit: kind=control action=None control=c11 editing=False size=1536x864
+2026-11-14 00:52:17,886 touchplay.input restore game focus: previous=0 game=66180 restored=1 current=66180
+2026-11-14 00:52:17,887 touchplay.input SendInput key: scan=0x13 flags=0x8 sent=1 foreground=None
+2026-11-14 00:52:17,949 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x247 shield=788618
+2026-11-14 00:52:17,949 touchplay.input shield message: hwnd=788618 msg=0x247 wparam=0x60000ae6
+2026-11-14 00:52:17,949 touchplay.input overlay up: id=2790 xy=1308.8,216.0 kind=control moved=None
+2026-11-14 00:52:17,949 touchplay.input SendInput key: scan=0x13 flags=0xa sent=1 foreground=66180
+2026-11-14 00:52:18,004 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x246 shield=788618
+2026-11-14 00:52:18,004 touchplay.input shield message: hwnd=788618 msg=0x246 wparam=0x60170ae7
+2026-11-14 00:52:18,005 touchplay.input overlay down: id=2791 xy=1305.6,220.0
+2026-11-14 00:52:18,008 touchplay.input hit: kind=control action=None control=c11 editing=False size=1536x864
+2026-11-14 00:52:18,008 touchplay.input restore game focus: previous=0 game=66180 restored=1 current=None
+2026-11-14 00:52:18,009 touchplay.input SendInput key: scan=0x13 flags=0x8 sent=1 foreground=None
+2026-11-14 00:52:18,059 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x247 shield=788618
+2026-11-14 00:52:18,059 touchplay.input shield message: hwnd=788618 msg=0x247 wparam=0x60000ae7
+2026-11-14 00:52:18,060 touchplay.input overlay up: id=2791 xy=1305.6,220.0 kind=control moved=None
+2026-11-14 00:52:18,060 touchplay.input SendInput key: scan=0x13 flags=0xa sent=1 foreground=66180
+2026-11-14 00:52:18,126 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x246 shield=788618
+2026-11-14 00:52:18,126 touchplay.input shield message: hwnd=788618 msg=0x246 wparam=0x60170ae8
+2026-11-14 00:52:18,127 touchplay.input overlay down: id=2792 xy=1307.2,214.4
+2026-11-14 00:52:18,130 touchplay.input hit: kind=control action=None control=c11 editing=False size=1536x864
+2026-11-14 00:52:18,131 touchplay.input restore game focus: previous=0 game=66180 restored=1 current=None
+2026-11-14 00:52:18,132 touchplay.input SendInput key: scan=0x13 flags=0x8 sent=1 foreground=None
+2026-11-14 00:52:18,202 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x247 shield=788618
+2026-11-14 00:52:18,202 touchplay.input shield message: hwnd=788618 msg=0x247 wparam=0x60000ae8
+2026-11-14 00:52:18,202 touchplay.input overlay up: id=2792 xy=1305.6,214.4 kind=control moved=None
+2026-11-14 00:52:18,203 touchplay.input SendInput key: scan=0x13 flags=0xa sent=1 foreground=66180
+2026-11-14 00:52:18,266 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x246 shield=788618
+2026-11-14 00:52:18,266 touchplay.input shield message: hwnd=788618 msg=0x246 wparam=0x60170ae9
+2026-11-14 00:52:18,266 touchplay.input overlay down: id=2793 xy=1300.0,218.4
+2026-11-14 00:52:18,268 touchplay.input hit: kind=control action=None control=c11 editing=False size=1536x864
+2026-11-14 00:52:18,269 touchplay.input restore game focus: previous=0 game=66180 restored=1 current=None
+2026-11-14 00:52:18,270 touchplay.input SendInput key: scan=0x13 flags=0x8 sent=1 foreground=None
+2026-11-14 00:52:18,323 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x247 shield=788618
+2026-11-14 00:52:18,323 touchplay.input shield message: hwnd=788618 msg=0x247 wparam=0x60000ae9
+2026-11-14 00:52:18,323 touchplay.input overlay up: id=2793 xy=1300.0,218.4 kind=control moved=None
+2026-11-14 00:52:18,323 touchplay.input SendInput key: scan=0x13 flags=0xa sent=1 foreground=66180
+2026-11-14 00:52:18,386 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x246 shield=788618
+2026-11-14 00:52:18,387 touchplay.input shield message: hwnd=788618 msg=0x246 wparam=0x60170aea
+2026-11-14 00:52:18,387 touchplay.input overlay down: id=2794 xy=1300.0,221.6
+2026-11-14 00:52:18,388 touchplay.input hit: kind=control action=None control=c11 editing=False size=1536x864
+2026-11-14 00:52:18,389 touchplay.input restore game focus: previous=0 game=66180 restored=1 current=None
+2026-11-14 00:52:18,390 touchplay.input SendInput key: scan=0x13 flags=0x8 sent=1 foreground=66180
+2026-11-14 00:52:18,437 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x247 shield=788618
+2026-11-14 00:52:18,438 touchplay.input shield message: hwnd=788618 msg=0x247 wparam=0x60000aea
+2026-11-14 00:52:18,438 touchplay.input overlay up: id=2794 xy=1300.0,221.6 kind=control moved=None
+2026-11-14 00:52:18,438 touchplay.input SendInput key: scan=0x13 flags=0xa sent=1 foreground=66180
+2026-11-14 00:52:18,508 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x246 shield=788618
+2026-11-14 00:52:18,508 touchplay.input shield message: hwnd=788618 msg=0x246 wparam=0x60170aeb
+2026-11-14 00:52:18,508 touchplay.input overlay down: id=2795 xy=1296.8,216.8
+2026-11-14 00:52:18,510 touchplay.input hit: kind=control action=None control=c11 editing=False size=1536x864
+2026-11-14 00:52:18,511 touchplay.input restore game focus: previous=0 game=66180 restored=1 current=None
+2026-11-14 00:52:18,511 touchplay.input SendInput key: scan=0x13 flags=0x8 sent=1 foreground=None
+2026-11-14 00:52:18,566 touchplay.input Qt native: type=b'windows_generic_MSG' target=788618 msg=0x247 shield=788618
+2026-11-14 00:52:18,566 touchplay.input shield message: hwnd=788618 msg=0x247 wparam=0x60000aeb
+2026-11-14 00:52:18,566 touchplay.input overlay up: id=2795 xy=1295.2,216.8 kind=control moved=None
+2026-11-14 00:52:18,567 touchplay.input SendInput key: scan=0x13 flags=0xa sent=1 foreground=66180
+2026-11-14 00:52:20,996 touchplay.input mouse hook down: touch=False extra=0x0 flags=0x0 point=1080,34 over_shield=True
+2026-11-14 00:52:20,999 touchplay.input shield message: hwnd=788618 msg=0x201 wparam=0x1
+2026-11-14 00:52:20,999 touchplay.input overlay down: id=mouse xy=864.0,27.2
+2026-11-14 00:52:21,009 touchplay.input hit: kind=chrome action=hide control=None editing=False size=1536x864
+2026-11-14 00:52:21,053 touchplay.input shield message: hwnd=788618 msg=0x202 wparam=0x0
+2026-11-14 00:52:21,053 touchplay.input overlay up: id=mouse xy=864.0,27.2 kind=chrome moved=False
+2026-11-14 00:52:26,759 touchplay.input Qt native: type=b'windows_generic_MSG' target=592094 msg=0x246 shield=788618
+2026-11-14 00:52:26,760 touchplay.input Qt native: type=b'windows_generic_MSG' target=592094 msg=0x246 shield=788618
+2026-11-14 00:52:26,768 touchplay.input shield shown: hwnd=854154 rect=(0, 0, 1920, 1080)
+2026-11-14 00:52:26,803 touchplay.input Qt native: type=b'windows_generic_MSG' target=592094 msg=0x247 shield=854154
+2026-11-14 00:52:26,803 touchplay.input Qt native: type=b'windows_generic_MSG' target=592094 msg=0x247 shield=854154
+2026-11-14 00:52:26,803 touchplay.input shield message: hwnd=854154 msg=0x202 wparam=0x0
+2026-11-14 00:52:27,299 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x246 shield=854154
+2026-11-14 00:52:27,299 touchplay.input shield message: hwnd=854154 msg=0x246 wparam=0x60170aee
+2026-11-14 00:52:27,299 touchplay.input overlay down: id=2798 xy=217.6,650.4
+2026-11-14 00:52:27,310 touchplay.input hit: kind=control action=None control=c14 editing=False size=1536x864
+2026-11-14 00:52:27,357 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:52:27,358 touchplay.input SendInput key: scan=0x11 flags=0x8 sent=1 foreground=None
+2026-11-14 00:52:27,358 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:52:27,358 touchplay.input SendInput key: scan=0x1e flags=0x8 sent=1 foreground=None
+2026-11-14 00:52:27,761 touchplay.input SendInput key: scan=0x11 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:52:27,761 touchplay.input SendInput key: scan=0x1e flags=0xa sent=1 foreground=2819452
+2026-11-14 00:52:27,806 touchplay.input SendInput key: scan=0x1f flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:52:27,852 touchplay.input SendInput key: scan=0x20 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:52:27,963 touchplay.input SendInput key: scan=0x1f flags=0xa sent=1 foreground=2819452
+2026-11-14 00:52:27,963 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x247 shield=854154
+2026-11-14 00:52:27,964 touchplay.input shield message: hwnd=854154 msg=0x247 wparam=0x60000aee
+2026-11-14 00:52:27,964 touchplay.input overlay up: id=2798 xy=322.4,681.6 kind=control moved=None
+2026-11-14 00:52:27,964 touchplay.input SendInput key: scan=0x20 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:52:28,270 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x246 shield=854154
+2026-11-14 00:52:28,270 touchplay.input shield message: hwnd=854154 msg=0x246 wparam=0x60170aef
+2026-11-14 00:52:28,270 touchplay.input overlay down: id=2799 xy=67.2,144.8
+2026-11-14 00:52:28,275 touchplay.input hit: kind=control action=None control=c1 editing=False size=1536x864
+2026-11-14 00:52:28,275 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=2819452
+2026-11-14 00:52:28,276 touchplay.input SendInput key: scan=0x1 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:52:28,324 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x247 shield=854154
+2026-11-14 00:52:28,325 touchplay.input shield message: hwnd=854154 msg=0x247 wparam=0x60000aef
+2026-11-14 00:52:28,325 touchplay.input overlay up: id=2799 xy=67.2,144.8 kind=control moved=None
+2026-11-14 00:52:28,325 touchplay.input SendInput key: scan=0x1 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:52:28,623 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x246 shield=854154
+2026-11-14 00:52:28,624 touchplay.input shield message: hwnd=854154 msg=0x246 wparam=0x60170af0
+2026-11-14 00:52:28,624 touchplay.input overlay down: id=2800 xy=241.6,666.4
+2026-11-14 00:52:28,626 touchplay.input hit: kind=control action=None control=c14 editing=False size=1536x864
+2026-11-14 00:52:28,686 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:52:28,686 touchplay.input SendInput key: scan=0x11 flags=0x8 sent=1 foreground=None
+2026-11-14 00:52:28,704 touchplay.input SendInput key: scan=0x1e flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:52:28,809 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x247 shield=854154
+2026-11-14 00:52:28,809 touchplay.input shield message: hwnd=854154 msg=0x247 wparam=0x60000af0
+2026-11-14 00:52:28,809 touchplay.input overlay up: id=2800 xy=103.2,432.0 kind=control moved=None
+2026-11-14 00:52:28,810 touchplay.input SendInput key: scan=0x11 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:52:28,810 touchplay.input SendInput key: scan=0x1e flags=0xa sent=1 foreground=2819452
+2026-11-14 00:52:28,941 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x246 shield=854154
+2026-11-14 00:52:28,941 touchplay.input shield message: hwnd=854154 msg=0x246 wparam=0x60170af1
+2026-11-14 00:52:28,941 touchplay.input overlay down: id=2801 xy=247.2,611.2
+2026-11-14 00:52:28,951 touchplay.input hit: kind=control action=None control=c14 editing=False size=1536x864
+2026-11-14 00:52:28,952 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:52:28,953 touchplay.input SendInput key: scan=0x11 flags=0x8 sent=1 foreground=None
+2026-11-14 00:52:28,986 touchplay.input SendInput key: scan=0x11 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:52:29,015 touchplay.input SendInput key: scan=0x20 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:52:29,060 touchplay.input SendInput key: scan=0x1f flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:52:29,061 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x247 shield=854154
+2026-11-14 00:52:29,061 touchplay.input shield message: hwnd=854154 msg=0x247 wparam=0x60000af1
+2026-11-14 00:52:29,061 touchplay.input overlay up: id=2801 xy=293.6,688.0 kind=control moved=None
+2026-11-14 00:52:29,061 touchplay.input SendInput key: scan=0x1f flags=0xa sent=1 foreground=2819452
+2026-11-14 00:52:29,062 touchplay.input SendInput key: scan=0x20 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:52:29,077 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x246 shield=854154
+2026-11-14 00:52:29,077 touchplay.input shield message: hwnd=854154 msg=0x246 wparam=0x60170af2
+2026-11-14 00:52:29,077 touchplay.input overlay down: id=2802 xy=1457.6,580.0
+2026-11-14 00:52:29,080 touchplay.input hit: kind=control action=None control=c5 editing=False size=1536x864
+2026-11-14 00:52:29,081 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=2819452
+2026-11-14 00:52:29,081 touchplay.input SendInput key: scan=0x39 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:52:29,117 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x247 shield=854154
+2026-11-14 00:52:29,118 touchplay.input shield message: hwnd=854154 msg=0x247 wparam=0x60000af2
+2026-11-14 00:52:29,118 touchplay.input overlay up: id=2802 xy=1457.6,580.0 kind=control moved=None
+2026-11-14 00:52:29,118 touchplay.input SendInput key: scan=0x39 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:52:29,492 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x246 shield=854154
+2026-11-14 00:52:29,492 touchplay.input shield message: hwnd=854154 msg=0x246 wparam=0x60170af3
+2026-11-14 00:52:29,492 touchplay.input overlay down: id=2803 xy=73.6,137.6
+2026-11-14 00:52:29,493 touchplay.input hit: kind=control action=None control=c1 editing=False size=1536x864
+2026-11-14 00:52:29,493 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=2819452
+2026-11-14 00:52:29,494 touchplay.input SendInput key: scan=0x1 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:52:29,550 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x247 shield=854154
+2026-11-14 00:52:29,550 touchplay.input shield message: hwnd=854154 msg=0x247 wparam=0x60000af3
+2026-11-14 00:52:29,550 touchplay.input overlay up: id=2803 xy=73.6,137.6 kind=control moved=None
+2026-11-14 00:52:29,550 touchplay.input SendInput key: scan=0x1 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:52:29,659 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x246 shield=854154
+2026-11-14 00:52:29,659 touchplay.input shield message: hwnd=854154 msg=0x246 wparam=0x60170af4
+2026-11-14 00:52:29,659 touchplay.input overlay down: id=2804 xy=40.8,135.2
+2026-11-14 00:52:29,662 touchplay.input hit: kind=control action=None control=c1 editing=False size=1536x864
+2026-11-14 00:52:29,662 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=2819452
+2026-11-14 00:52:29,663 touchplay.input SendInput key: scan=0x1 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:52:29,704 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x247 shield=854154
+2026-11-14 00:52:29,704 touchplay.input shield message: hwnd=854154 msg=0x247 wparam=0x60000af4
+2026-11-14 00:52:29,704 touchplay.input overlay up: id=2804 xy=40.8,135.2 kind=control moved=None
+2026-11-14 00:52:29,704 touchplay.input SendInput key: scan=0x1 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:52:29,799 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x246 shield=854154
+2026-11-14 00:52:29,799 touchplay.input shield message: hwnd=854154 msg=0x246 wparam=0x60170af5
+2026-11-14 00:52:29,799 touchplay.input overlay down: id=2805 xy=63.2,144.8
+2026-11-14 00:52:29,801 touchplay.input hit: kind=control action=None control=c1 editing=False size=1536x864
+2026-11-14 00:52:29,801 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=2819452
+2026-11-14 00:52:29,802 touchplay.input SendInput key: scan=0x1 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:52:29,844 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x247 shield=854154
+2026-11-14 00:52:29,844 touchplay.input shield message: hwnd=854154 msg=0x247 wparam=0x60000af5
+2026-11-14 00:52:29,844 touchplay.input overlay up: id=2805 xy=63.2,144.8 kind=control moved=None
+2026-11-14 00:52:29,845 touchplay.input SendInput key: scan=0x1 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:52:29,920 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x246 shield=854154
+2026-11-14 00:52:29,920 touchplay.input shield message: hwnd=854154 msg=0x246 wparam=0x60170af6
+2026-11-14 00:52:29,920 touchplay.input overlay down: id=2806 xy=68.8,153.6
+2026-11-14 00:52:29,924 touchplay.input hit: kind=control action=None control=c1 editing=False size=1536x864
+2026-11-14 00:52:29,924 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:52:29,925 touchplay.input SendInput key: scan=0x1 flags=0x8 sent=1 foreground=None
+2026-11-14 00:52:29,994 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x247 shield=854154
+2026-11-14 00:52:29,994 touchplay.input shield message: hwnd=854154 msg=0x247 wparam=0x60000af6
+2026-11-14 00:52:29,994 touchplay.input overlay up: id=2806 xy=68.8,153.6 kind=control moved=None
+2026-11-14 00:52:29,995 touchplay.input SendInput key: scan=0x1 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:52:30,303 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x246 shield=854154
+2026-11-14 00:52:30,303 touchplay.input shield message: hwnd=854154 msg=0x246 wparam=0x60170af7
+2026-11-14 00:52:30,303 touchplay.input overlay down: id=2807 xy=67.2,117.6
+2026-11-14 00:52:30,313 touchplay.input hit: kind=control action=None control=c1 editing=False size=1536x864
+2026-11-14 00:52:30,313 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:52:30,314 touchplay.input SendInput key: scan=0x1 flags=0x8 sent=1 foreground=None
+2026-11-14 00:52:30,368 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x247 shield=854154
+2026-11-14 00:52:30,368 touchplay.input shield message: hwnd=854154 msg=0x247 wparam=0x60000af7
+2026-11-14 00:52:30,369 touchplay.input overlay up: id=2807 xy=67.2,117.6 kind=control moved=None
+2026-11-14 00:52:30,369 touchplay.input SendInput key: scan=0x1 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:52:30,612 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x246 shield=854154
+2026-11-14 00:52:30,613 touchplay.input shield message: hwnd=854154 msg=0x246 wparam=0x60170af8
+2026-11-14 00:52:30,613 touchplay.input overlay down: id=2808 xy=67.2,132.0
+2026-11-14 00:52:30,622 touchplay.input hit: kind=control action=None control=c1 editing=False size=1536x864
+2026-11-14 00:52:30,623 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:52:30,623 touchplay.input SendInput key: scan=0x1 flags=0x8 sent=1 foreground=None
+2026-11-14 00:52:30,680 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x247 shield=854154
+2026-11-14 00:52:30,680 touchplay.input shield message: hwnd=854154 msg=0x247 wparam=0x60000af8
+2026-11-14 00:52:30,681 touchplay.input overlay up: id=2808 xy=67.2,132.0 kind=control moved=None
+2026-11-14 00:52:30,681 touchplay.input SendInput key: scan=0x1 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:52:31,338 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x246 shield=854154
+2026-11-14 00:52:31,338 touchplay.input shield message: hwnd=854154 msg=0x246 wparam=0x60170af9
+2026-11-14 00:52:31,338 touchplay.input overlay down: id=2809 xy=64.8,136.8
+2026-11-14 00:52:31,350 touchplay.input hit: kind=control action=None control=c1 editing=False size=1536x864
+2026-11-14 00:52:31,351 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:52:31,352 touchplay.input SendInput key: scan=0x1 flags=0x8 sent=1 foreground=None
+2026-11-14 00:52:31,405 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x247 shield=854154
+2026-11-14 00:52:31,405 touchplay.input shield message: hwnd=854154 msg=0x247 wparam=0x60000af9
+2026-11-14 00:52:31,405 touchplay.input overlay up: id=2809 xy=64.8,136.8 kind=control moved=None
+2026-11-14 00:52:31,406 touchplay.input SendInput key: scan=0x1 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:52:31,617 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x246 shield=854154
+2026-11-14 00:52:31,617 touchplay.input shield message: hwnd=854154 msg=0x246 wparam=0x60170afa
+2026-11-14 00:52:31,618 touchplay.input overlay down: id=2810 xy=75.2,144.8
+2026-11-14 00:52:31,627 touchplay.input hit: kind=control action=None control=c1 editing=False size=1536x864
+2026-11-14 00:52:31,628 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:52:31,629 touchplay.input SendInput key: scan=0x1 flags=0x8 sent=1 foreground=None
+2026-11-14 00:52:31,664 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x247 shield=854154
+2026-11-14 00:52:31,664 touchplay.input shield message: hwnd=854154 msg=0x247 wparam=0x60000afa
+2026-11-14 00:52:31,664 touchplay.input overlay up: id=2810 xy=75.2,144.8 kind=control moved=None
+2026-11-14 00:52:31,664 touchplay.input SendInput key: scan=0x1 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:52:32,139 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x246 shield=854154
+2026-11-14 00:52:32,140 touchplay.input shield message: hwnd=854154 msg=0x246 wparam=0x60170afb
+2026-11-14 00:52:32,140 touchplay.input overlay down: id=2811 xy=173.6,264.8
+2026-11-14 00:52:32,150 touchplay.input hit: kind=control action=None control=c3 editing=False size=1536x864
+2026-11-14 00:52:32,150 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=2819452
+2026-11-14 00:52:32,152 touchplay.input SendInput key: scan=0x3 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:52:32,229 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x247 shield=854154
+2026-11-14 00:52:32,229 touchplay.input shield message: hwnd=854154 msg=0x247 wparam=0x60000afb
+2026-11-14 00:52:32,229 touchplay.input overlay up: id=2811 xy=173.6,264.8 kind=control moved=None
+2026-11-14 00:52:32,230 touchplay.input SendInput key: scan=0x3 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:52:32,623 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x246 shield=854154
+2026-11-14 00:52:32,624 touchplay.input shield message: hwnd=854154 msg=0x246 wparam=0x60170afc
+2026-11-14 00:52:32,624 touchplay.input overlay down: id=2812 xy=68.8,256.0
+2026-11-14 00:52:32,626 touchplay.input hit: kind=control action=None control=c2 editing=False size=1536x864
+2026-11-14 00:52:32,626 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=2819452
+2026-11-14 00:52:32,627 touchplay.input SendInput key: scan=0x2 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:52:32,698 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x247 shield=854154
+2026-11-14 00:52:32,698 touchplay.input shield message: hwnd=854154 msg=0x247 wparam=0x60000afc
+2026-11-14 00:52:32,698 touchplay.input overlay up: id=2812 xy=68.8,257.6 kind=control moved=None
+2026-11-14 00:52:32,698 touchplay.input SendInput key: scan=0x2 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:52:33,117 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x246 shield=854154
+2026-11-14 00:52:33,118 touchplay.input shield message: hwnd=854154 msg=0x246 wparam=0x60170afd
+2026-11-14 00:52:33,118 touchplay.input overlay down: id=2813 xy=190.4,247.2
+2026-11-14 00:52:33,121 touchplay.input hit: kind=control action=None control=c3 editing=False size=1536x864
+2026-11-14 00:52:33,121 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=2819452
+2026-11-14 00:52:33,122 touchplay.input SendInput key: scan=0x3 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:52:33,213 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x247 shield=854154
+2026-11-14 00:52:33,213 touchplay.input shield message: hwnd=854154 msg=0x247 wparam=0x60000afd
+2026-11-14 00:52:33,213 touchplay.input overlay up: id=2813 xy=190.4,247.2 kind=control moved=None
+2026-11-14 00:52:33,213 touchplay.input SendInput key: scan=0x3 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:52:33,957 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x246 shield=854154
+2026-11-14 00:52:33,957 touchplay.input shield message: hwnd=854154 msg=0x246 wparam=0x60170afe
+2026-11-14 00:52:33,957 touchplay.input overlay down: id=2814 xy=49.6,115.2
+2026-11-14 00:52:33,969 touchplay.input hit: kind=control action=None control=c1 editing=False size=1536x864
+2026-11-14 00:52:33,970 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=2819452
+2026-11-14 00:52:33,972 touchplay.input SendInput key: scan=0x1 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:52:34,016 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x247 shield=854154
+2026-11-14 00:52:34,016 touchplay.input shield message: hwnd=854154 msg=0x247 wparam=0x60000afe
+2026-11-14 00:52:34,016 touchplay.input overlay up: id=2814 xy=49.6,115.2 kind=control moved=None
+2026-11-14 00:52:34,017 touchplay.input SendInput key: scan=0x1 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:52:34,563 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x246 shield=854154
+2026-11-14 00:52:34,563 touchplay.input shield message: hwnd=854154 msg=0x246 wparam=0x60170aff
+2026-11-14 00:52:34,563 touchplay.input overlay down: id=2815 xy=85.6,158.4
+2026-11-14 00:52:34,573 touchplay.input hit: kind=control action=None control=c1 editing=False size=1536x864
+2026-11-14 00:52:34,574 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:52:34,574 touchplay.input SendInput key: scan=0x1 flags=0x8 sent=1 foreground=None
+2026-11-14 00:52:34,631 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x247 shield=854154
+2026-11-14 00:52:34,631 touchplay.input shield message: hwnd=854154 msg=0x247 wparam=0x60000aff
+2026-11-14 00:52:34,631 touchplay.input overlay up: id=2815 xy=85.6,158.4 kind=control moved=None
+2026-11-14 00:52:34,632 touchplay.input SendInput key: scan=0x1 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:52:35,262 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x246 shield=854154
+2026-11-14 00:52:35,262 touchplay.input shield message: hwnd=854154 msg=0x246 wparam=0x60170b00
+2026-11-14 00:52:35,262 touchplay.input overlay down: id=2816 xy=184.0,243.2
+2026-11-14 00:52:35,264 touchplay.input hit: kind=control action=None control=c3 editing=False size=1536x864
+2026-11-14 00:52:35,264 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=2819452
+2026-11-14 00:52:35,265 touchplay.input SendInput key: scan=0x3 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:52:35,307 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x247 shield=854154
+2026-11-14 00:52:35,307 touchplay.input shield message: hwnd=854154 msg=0x247 wparam=0x60000b00
+2026-11-14 00:52:35,307 touchplay.input overlay up: id=2816 xy=184.0,243.2 kind=control moved=None
+2026-11-14 00:52:35,308 touchplay.input SendInput key: scan=0x3 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:52:36,046 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x246 shield=854154
+2026-11-14 00:52:36,046 touchplay.input shield message: hwnd=854154 msg=0x246 wparam=0x60170b01
+2026-11-14 00:52:36,046 touchplay.input overlay down: id=2817 xy=73.6,247.2
+2026-11-14 00:52:36,049 touchplay.input hit: kind=control action=None control=c2 editing=False size=1536x864
+2026-11-14 00:52:36,049 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=2819452
+2026-11-14 00:52:36,050 touchplay.input SendInput key: scan=0x2 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:52:36,092 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x247 shield=854154
+2026-11-14 00:52:36,092 touchplay.input shield message: hwnd=854154 msg=0x247 wparam=0x60000b01
+2026-11-14 00:52:36,092 touchplay.input overlay up: id=2817 xy=73.6,247.2 kind=control moved=None
+2026-11-14 00:52:36,093 touchplay.input SendInput key: scan=0x2 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:52:36,753 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x246 shield=854154
+2026-11-14 00:52:36,754 touchplay.input shield message: hwnd=854154 msg=0x246 wparam=0x60170b02
+2026-11-14 00:52:36,754 touchplay.input overlay down: id=2818 xy=220.0,645.6
+2026-11-14 00:52:36,756 touchplay.input hit: kind=control action=None control=c14 editing=False size=1536x864
+2026-11-14 00:52:37,172 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x247 shield=854154
+2026-11-14 00:52:37,173 touchplay.input shield message: hwnd=854154 msg=0x247 wparam=0x60000b02
+2026-11-14 00:52:37,173 touchplay.input overlay up: id=2818 xy=220.0,620.0 kind=control moved=None
+2026-11-14 00:52:37,583 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x246 shield=854154
+2026-11-14 00:52:37,584 touchplay.input shield message: hwnd=854154 msg=0x246 wparam=0x60170b03
+2026-11-14 00:52:37,584 touchplay.input overlay down: id=2819 xy=65.6,243.2
+2026-11-14 00:52:37,594 touchplay.input hit: kind=control action=None control=c2 editing=False size=1536x864
+2026-11-14 00:52:37,595 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:52:37,596 touchplay.input SendInput key: scan=0x2 flags=0x8 sent=1 foreground=None
+2026-11-14 00:52:37,642 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x247 shield=854154
+2026-11-14 00:52:37,642 touchplay.input shield message: hwnd=854154 msg=0x247 wparam=0x60000b03
+2026-11-14 00:52:37,642 touchplay.input overlay up: id=2819 xy=65.6,243.2 kind=control moved=None
+2026-11-14 00:52:37,643 touchplay.input SendInput key: scan=0x2 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:52:37,902 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x246 shield=854154
+2026-11-14 00:52:37,902 touchplay.input shield message: hwnd=854154 msg=0x246 wparam=0x60170b04
+2026-11-14 00:52:37,902 touchplay.input overlay down: id=2820 xy=46.4,136.8
+2026-11-14 00:52:37,904 touchplay.input hit: kind=control action=None control=c1 editing=False size=1536x864
+2026-11-14 00:52:37,904 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=2819452
+2026-11-14 00:52:37,905 touchplay.input SendInput key: scan=0x1 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:52:37,950 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x247 shield=854154
+2026-11-14 00:52:37,950 touchplay.input shield message: hwnd=854154 msg=0x247 wparam=0x60000b04
+2026-11-14 00:52:37,950 touchplay.input overlay up: id=2820 xy=46.4,136.8 kind=control moved=None
+2026-11-14 00:52:37,951 touchplay.input SendInput key: scan=0x1 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:52:38,590 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x246 shield=854154
+2026-11-14 00:52:38,590 touchplay.input shield message: hwnd=854154 msg=0x246 wparam=0x60170b05
+2026-11-14 00:52:38,590 touchplay.input overlay down: id=2821 xy=228.0,670.4
+2026-11-14 00:52:38,594 touchplay.input hit: kind=control action=None control=c14 editing=False size=1536x864
+2026-11-14 00:52:38,961 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x247 shield=854154
+2026-11-14 00:52:38,961 touchplay.input shield message: hwnd=854154 msg=0x247 wparam=0x60000b05
+2026-11-14 00:52:38,961 touchplay.input overlay up: id=2821 xy=228.0,670.4 kind=control moved=None
+2026-11-14 00:52:39,484 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x246 shield=854154
+2026-11-14 00:52:39,485 touchplay.input shield message: hwnd=854154 msg=0x246 wparam=0x60170b06
+2026-11-14 00:52:39,485 touchplay.input overlay down: id=2822 xy=58.4,148.0
+2026-11-14 00:52:39,487 touchplay.input hit: kind=control action=None control=c1 editing=False size=1536x864
+2026-11-14 00:52:39,487 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
+2026-11-14 00:52:39,489 touchplay.input SendInput key: scan=0x1 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:52:39,550 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x247 shield=854154
+2026-11-14 00:52:39,550 touchplay.input shield message: hwnd=854154 msg=0x247 wparam=0x60000b06
+2026-11-14 00:52:39,550 touchplay.input overlay up: id=2822 xy=58.4,148.0 kind=control moved=None
+2026-11-14 00:52:39,550 touchplay.input SendInput key: scan=0x1 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:52:40,149 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x246 shield=854154
+2026-11-14 00:52:40,149 touchplay.input shield message: hwnd=854154 msg=0x246 wparam=0x60170b07
+2026-11-14 00:52:40,149 touchplay.input overlay down: id=2823 xy=64.8,152.0
+2026-11-14 00:52:40,160 touchplay.input hit: kind=control action=None control=c1 editing=False size=1536x864
+2026-11-14 00:52:40,160 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=2819452
+2026-11-14 00:52:40,162 touchplay.input SendInput key: scan=0x1 flags=0x8 sent=1 foreground=2819452
+2026-11-14 00:52:40,221 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x247 shield=854154
+2026-11-14 00:52:40,222 touchplay.input shield message: hwnd=854154 msg=0x247 wparam=0x60000b07
+2026-11-14 00:52:40,222 touchplay.input overlay up: id=2823 xy=64.8,152.0 kind=control moved=None
+2026-11-14 00:52:40,223 touchplay.input SendInput key: scan=0x1 flags=0xa sent=1 foreground=2819452
+2026-11-14 00:52:40,559 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x246 shield=854154
+2026-11-14 00:52:40,559 touchplay.input shield message: hwnd=854154 msg=0x246 wparam=0x60170b08
+2026-11-14 00:52:40,559 touchplay.input overlay down: id=2824 xy=243.2,135.2
+2026-11-14 00:52:40,562 touchplay.input hit: kind=dead action=None control=None editing=False size=1536x864
+2026-11-14 00:52:40,600 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x247 shield=854154
+2026-11-14 00:52:40,600 touchplay.input shield message: hwnd=854154 msg=0x247 wparam=0x60000b08
+2026-11-14 00:52:40,600 touchplay.input overlay up: id=2824 xy=243.2,135.2 kind=dead moved=None
+2026-11-14 00:52:41,454 touchplay.input Qt native: type=b'windows_generic_MSG' target=854154 msg=0x246 shield=854154
+2026-11-14 00:52:41,454 touchplay.input shield message: hwnd=854154 msg=0x246 wparam=0x60170b09
+2026-11-14 00:52:41,454 touchplay.input overlay down: id=2825 xy=1238.4,456.0
+2026-11-14 00:52:41,464 touchplay.input hit: kind=control action=None control=c15 editing=False size=1536x864
+2026-11-14 00:52:41,511 touchplay.input restore game focus: previous=0 game=2819452 restored=1 current=None
